@@ -72,8 +72,9 @@ http://allstar.is-by.us:25461/5555/wz8ShRvhz4/59933
 #EXTINF:-1,Disney Junior Latino
 http://allstar.is-by.us:25461/5555/wz8ShRvhz4/4490
 
-EXTINF:-1,Disney Channel Mexico
-http://allstar.is-by.us:25461/5555/wz8ShRvhz4/2971
+
+#EXTINF:-1,Discovery Kids HD" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png"
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/313151
 
 #EXTINF:-1,DISNEY CHANNEL
 http://allstar.is-by.us:25461/5555/wz8ShRvhz4/140143

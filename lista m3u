@@ -2,7 +2,8 @@
 
 
 
-#EXTINF:-1,Gol TV HD (ECU) tvg-logo="https://img.tvcl.xyz/deportes/goltv.png"
+#EXTINF:-1,Gol TV HD (ECU)
+ tvg-logo="https://img.tvcl.xyz/deportes/goltv.png"
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34693
 
 #EXTINF:-1,GOL TV

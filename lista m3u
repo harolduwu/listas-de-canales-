@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+
+#EXTINF:-1,Gol TV HD (ECU) tvg-logo="https://img.tvcl.xyz/deportes/goltv.png"
+http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34693
+
 #EXTINF:-1,GOL TV
 http://allstar.is-by.us:25461/5555/wz8ShRvhz4/141839
 

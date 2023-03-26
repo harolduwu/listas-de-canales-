@@ -1,3 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1tvg-id=group-title="NOTICIAS,TV,EC"
+#EXTINF:-1tvg-id=group-title="NOTICIAS,TV,EC"#EXTINF:-1 tvg-id="" tvg-name="EC | Canal Uno HD" tvg-logo="http://castlempire.site:8080/images/b04b827af7f3db14576f394ef24fbd70.png" group-title="Ecuador",EC | Canal Uno HD
+http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170157

@@ -9,52 +9,55 @@ http://castlempire.site:8080/UserTest1Octubre_00d/fTQHy3hQDtjs/170155
 #EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas Sierra" tvg-logo="http://castlempire.site:8080/images/02722f624ad0129fa82d2552e69c3a49.png" Teleamazonas Sierra
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170134
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | TVC FHD" tvg-logo="http://castlempire.site:8080/images/3c5781da3ba7571d17a590b05f21781c.jpg" group-title="Ecuador",EC | TVC FHD
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC FHD" tvg-logo="http://castlempire.site:8080/images/3c5781da3ba7571d17a590b05f21781c.jpg" TVC FHD
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170156
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC Television HD" tvg-logo="http://castlempire.site:8080/images/0ba44ec0c3f77938b9a7de338f4fa5d4.png" group-title="Ecuador",EC | TC Television HD
+#EXTINF:-1 tvg-id="" tvg-name="EC | TC Television HD" tvg-logo="http://castlempire.site:8080/images/0ba44ec0c3f77938b9a7de338f4fa5d4.png" | TC Television HD
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170152
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | TC Television SD" tvg-logo="http://castlempire.site:8080/images/0ba44ec0c3f77938b9a7de338f4fa5d4.png" group-title="Ecuador",EC | TC Television SD
+#EXTINF:-1 tvg-id="" tvg-name="EC | TC Television SD" tvg-logo="http://castlempire.site:8080/images/0ba44ec0c3f77938b9a7de338f4fa5d4.png" | TC Television SD
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170153
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS FHD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="Ecuador",EC | RTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="EC | RTS FHD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" | RTS FHD
 http://castlempire.site:8080/UserTest4Octubre_00d/uek4neVNWyxE/170148
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | RTS HD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" group-title="Ecuador",EC | RTS HD
+#EXTINF:-1 tvg-id="" tvg-name="EC | RTS HD" tvg-logo="http://castlempire.site:8080/images/5ae996a8dcc478e4fe1a0109f722d93d.jpg" | RTS HD
 http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/170149
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV FHD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="Ecuador",EC | Ecuador TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV FHD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" | Ecuador TV FHD
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170139
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV HD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="Ecuador",EC | Ecuador TV HD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV HD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" | Ecuador TV HD
 http://castlempire.site:8080/UserTest4Octubre_00d/uek4neVNWyxE/170140
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV SD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" group-title="Ecuador",EC | Ecuador TV SD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuador TV SD" tvg-logo="http://castlempire.site:8080/images/09be0c23a179450a0dc0cad97b95b705.png" | Ecuador TV SD
 http://castlempire.site:8080/UserTest5Octubre_00d/p3QcBkFxLzkZ/170141
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png" group-title="Ecuador",EC | Ecuavisa FHD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png" | Ecuavisa FHD
 http://castlempire.site:8080/UserTest1Octubre_00d/fTQHy3hQDtjs/170142
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa HD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png" group-title="Ecuador",EC | Ecuavisa HD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa HD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png"| Ecuavisa HD
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170143
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa SD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png" group-title="Ecuador",EC | Ecuavisa SD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa SD" tvg-logo="http://castlempire.site:8080/images/f59e372d73b5ff3e1fb05404c3375248.png"| Ecuavisa SD
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170144
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa Sierra" tvg-logo="http://castlempire.site:8080/images/2e6c8022bb03eae1f370a071239b2cdd.png" group-title="Ecuador",EC | Ecuavisa Sierra
+#EXTINF:-1 tvg-id="" tvg-name="EC | Ecuavisa Sierra" tvg-logo="http://castlempire.site:8080/images/2e6c8022bb03eae1f370a071239b2cdd.png" | Ecuavisa Sierra
 http://castlempire.site:8080/UserTest4Octubre_00d/uek4neVNWyxE/170135
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Gamavision" tvg-logo="http://castlempire.site:8080/images/815e6212def15fe76ed27cec7a393d59.png" group-title="Ecuador",EC | Gamavision
+#EXTINF:-1 tvg-id="" tvg-name="EC | Gamavision" tvg-logo="http://castlempire.site:8080/images/815e6212def15fe76ed27cec7a393d59.png"  | Gamavision
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170165
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar TV FHD" tvg-logo="http://castlempire.site:8080/images/4ad556990bb6f4a5b1975c1d9e116ca3.png" group-title="Ecuador",EC | Oromar TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar TV FHD" tvg-logo="http://castlempire.site:8080/images/4ad556990bb6f4a5b1975c1d9e116ca3.png"| Oromar TV FHD
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170146
 
-#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar TV HD" tvg-logo="http://castlempire.site:8080/images/4ad556990bb6f4a5b1975c1d9e116ca3.png" group-title="Ecuador",EC | Oromar TV HD
+#EXTINF:-1 tvg-id="" tvg-name="EC | Oromar TV HD" tvg-logo="http://castlempire.site:8080/images/4ad556990bb6f4a5b1975c1d9e116ca3.png"| Oromar TV HD
 http://castlempire.site:8080/UserTest3Octubre_00d/FskXxRJQ3Ys7/170147
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S01 E01" tvg-logo="http://castlempire.site:8080/images/2b3cce524e6acb278c73cffe84f18c2b.jpg" group-title="**Anime",Dragon Ball Z S01 E01
 http://castlempire.site:8080/series/UserTest2Octubre_00d/bqCs7jw4KQJa/199972.mkv

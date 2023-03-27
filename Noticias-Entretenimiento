@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1tvg-id=group-title="NOTICIAS,TV,EC"
-"EC|Teleamazonas hd" tvg-logo="http://castlempire.site:8080/images/02722f624ad0129fa82d2552e69c3a49.png"
+tvg-name="EC|Teleamazonas hd" tvg-logo="http://castlempire.site:8080/images/02722f624ad0129fa82d2552e69c3a49.png"
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170157
 
 #EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas HD" tvg-logo="http://castlempire.site:8080/images/61d01e116b0a916297985c4e28747261.png" Teleamazonas HD

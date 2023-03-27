@@ -3,8 +3,13 @@
 #EXTINF:-1tvg-id=group-title="NOTICIAS,TV,EC"#EXTINF:-1 tvg-id="" tvg-name="EC | Canal Uno HD" tvg-logo="http://castlempire.site:8080/images/b04b827af7f3db14576f394ef24fbd70.png" group-title="Ecuador",EC | Canal Uno HD
 http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170157
 
+#EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas HD" tvg-logo="http://castlempire.site:8080/images/61d01e116b0a916297985c4e28747261.png" group-title="Ecuador",EC | Teleamazonas HD
+http://castlempire.site:8080/UserTest1Octubre_00d/fTQHy3hQDtjs/170155
 
-#EXTINF:-1tvg-id=group-title="DBZ"
+#EXTINF:-1 tvg-id="" tvg-name="EC | Teleamazonas Sierra" tvg-logo="http://castlempire.site:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="Ecuador",EC | Teleamazonas Sierra
+http://castlempire.site:8080/UserTest2Octubre_00d/bqCs7jw4KQJa/170134
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S01 E01" tvg-logo="http://castlempire.site:8080/images/2b3cce524e6acb278c73cffe84f18c2b.jpg" group-title="**Anime",Dragon Ball Z S01 E01
 http://castlempire.site:8080/series/UserTest2Octubre_00d/bqCs7jw4KQJa/199972.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z S01 E02" tvg-logo="http://castlempire.site:8080/images/2233d60e95123757fffb7ff7e7c9dd40.jpg" group-title="**Anime",Dragon Ball Z S01 E02

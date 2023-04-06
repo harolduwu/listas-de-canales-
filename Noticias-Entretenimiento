@@ -4,16 +4,7 @@
 
 
 
-#EXTINF:0, Nick
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8?/CISNEROSPRIVATE.m3u8
-#EXTINF:0,Nick Jr.
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/49/stream.m3u8?/CISNEROSPRIVATE.m3u8
-#EXTINF:0,Nick Toons
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/70/stream.m3u8?/CISNEROSPRIVATE.m3u8
-#EXTINF:0,AMC
-http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8?/CISNEROSPRIVATE.m3u8
-#EXTINF:0,AXN
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream
+
 #EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
 https://593apps.pro.ec/videoIPTV593.mp4
 #EXTINF:-1 tvg-id="" tvg-name="StarPlay Sports 2 HD" tvg-logo="http://castlempire.site:8080/images/e2533c51f66b75a5dd6121bf94be30fa.jpg" group-title=" ⚽ StarPlay *CHILE 2022* ⚽",StarPlay Sports 2 HD

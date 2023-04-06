@@ -3,6 +3,39 @@
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 7.jpg" group-title="**Anime",Dragon Ball 
 
 
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO '70S" tvg-logo="" group-title="General Streams",VEVO '70S
+http://168.205.87.198:8555/live/1113/123456/221.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO '80S" tvg-logo="" group-title="General Streams",VEVO '80S
+http://168.205.87.198:8555/live/1113/123456/222.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO '90S" tvg-logo="" group-title="General Streams",VEVO '90S
+http://168.205.87.198:8555/live/1113/123456/223.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO 2K" tvg-logo="" group-title="General Streams",VEVO 2K
+http://168.205.87.198:8555/live/1113/123456/224.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO COUNTRY" tvg-logo="" group-title="General Streams",VEVO COUNTRY
+http://168.205.87.198:8555/live/1113/123456/217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO LATINO" tvg-logo="" group-title="General Streams",VEVO LATINO
+http://168.205.87.198:8555/live/1113/123456/220.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO POP" tvg-logo="" group-title="General Streams",VEVO POP
+http://168.205.87.198:8555/live/1113/123456/219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO R B" tvg-logo="" group-title="General Streams",VEVO R B
+http://168.205.87.198:8555/live/1113/123456/218.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VEVO REGGAETÓN TRAP" tvg-logo="" group-title="General Streams",VEVO REGGAETÓN TRAP
+http://168.205.87.198:8555/live/1113/123456/216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VRT CHANNEL" tvg-logo="" group-title="General Streams",VRT CHANNEL
+http://168.205.87.198:8555/live/1113/123456/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WOOHOO" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="General Streams",WOOHOO
+http://168.205.87.198:8555/live/1113/123456/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YOUTUBE - BABY ALIVE" tvg-logo="" group-title="General Streams",YOUTUBE - BABY ALIVE
+http://168.205.87.198:8555/live/1113/123456/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YOUTUBE - DW ESPANHOL" tvg-logo="" group-title="General Streams",YOUTUBE - DW ESPANHOL
+http://168.205.87.198:8555/live/1113/123456/201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YOUTUBE - HAA TAA DEEP" tvg-logo="" group-title="General Streams",YOUTUBE - HAA TAA DEEP
+http://168.205.87.198:8555/live/1113/123456/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZOOMOO" tvg-logo="" group-title="General Streams",ZOOMOO
+http://168.205.87.198:8555/live/1113/123456/162.ts
+
 #EXTM3U
 #EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
 https://593apps.pro.ec/videoIPTV593.mp4

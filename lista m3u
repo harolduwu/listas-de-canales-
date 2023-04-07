@@ -3,7 +3,23 @@
 
 #EXTM3U 
  
+
+
 #EXTM3U 
+
+#EXTINF:-1 TVN ECUADOR 
+https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/chunklist_w1321973394_b2108000_sleng.m3u8
+
+#EXTINF:-1 ECOTEL 
+https://5b38ce71f1f00.streamlock.net/8344/8344/chunklist_w103054801.m3u8
+
+#EXTINF:-1 CANELA TV
+http://inliveserver.com:1935/8074/8074/chunklist_w480792676.m3u8
+#EXTINF:-1 UCSG Televisión
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w1030260942.m3u8
+#EXTINF:-1 TELEAMAZONAS
+https://playback.akamaized.net/streams/1359588_4428723_lsiczv3gimvkm69d9tb_1/media/1359588_4428723_lsiczv3gimvkm69d9tb_1@1756000pb.m3u8
+
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="95" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg", America Estereo | EC

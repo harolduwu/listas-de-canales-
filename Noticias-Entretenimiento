@@ -1,4 +1,31 @@
-#EXTINF:
+#EXTM3U
+#EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
+https://593apps.pro.ec/videoIPTV593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Constantine: Ciudad de Demonios (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dboNLFpCn4BBFUuFXNvOtf9Ty8J.jpg" group-title="*DC / DC MOVIES",Constantine: Ciudad de Demonios (2018)
+http://castlempire.site:8080/movie/UserTest5Octubre_00f/p3QcBkFxLzkZ/129593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman (2018)" tvg-logo="http://castlempire.site:8080/images/cddfb55992de4a27816ddeacee532e66.jpg" group-title="*DC / DC MOVIES",Aquaman (2018)
+http://castlempire.site:8080/movie/UserTest5Octubre_00f/p3QcBkFxLzkZ/141969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg" group-title="*DC / DC MOVIES",Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)
+http://castlempire.site:8080/movie/UserTest1Octubre_00f/fTQHy3hQDtjs/141970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9iIvDrc4A6WqBg3qzmfQmRFLwe.jpg" group-title="*DC / DC MOVIES",Batman Begins (2005)
+http://castlempire.site:8080/movie/UserTest4Octubre_00f/uek4neVNWyxE/141973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman v. Superman: El amanecer de la Justicia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="*DC / DC MOVIES",Batman v. Superman: El amanecer de la Justicia (2016)
+http://castlempire.site:8080/movie/UserTest5Octubre_00f/p3QcBkFxLzkZ/141974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="http://castlempire.site:8080/images/bfae0fbc2537a72d794f5ff5f789f8f5.jpg" group-title="*DC / DC MOVIES",Joker (2019)
+http://castlempire.site:8080/movie/UserTest2Octubre_00f/bqCs7jw4KQJa/141976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde (2011)" tvg-logo="http://castlempire.site:8080/images/e86fce0b81551cbcc09213e213c994d4.jpg" group-title="*DC / DC MOVIES",Linterna Verde (2011)
+http://castlempire.site:8080/movie/UserTest3Octubre_00f/FskXxRJQ3Ys7/141977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tp3FVzADUWl5dlfdc1cEVCLhgMG.jpg" group-title="*DC / DC MOVIES",Wonder Woman (2017)
+http://castlempire.site:8080/movie/UserTest4Octubre_00f/uek4neVNWyxE/141978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4f5Rz8uYpcTvo1hHKcQRSaay0ek.jpg" group-title="*DC / DC MOVIES",¡Shazam! (2019)
+http://castlempire.site:8080/movie/UserTest5Octubre_00f/p3QcBkFxLzkZ/141979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Death in the Family (2020)" tvg-logo="http://castlempire.site:8080/images/d2d1c2438bbb6f3687332031d3254a60.jpg" group-title="*DC / DC MOVIES",Batman: Death in the Family (2020)
+http://castlempire.site:8080/movie/UserTest3Octubre_00f/FskXxRJQ3Ys7/186070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El escuadrón suicida (2021)" tvg-logo="http://castlempire.site:8080/images/0a421cc68342f088a225613c18b9b5e8.jpg" group-title="*DC / DC MOVIES",El escuadrón suicida (2021)
+http://castlempire.site:8080/movie/UserTest4Octubre_00f/uek4neVNWyxE/219598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legión de superhéroes (2023)" tvg-logo="http://castlempire.site:8080/images/a1f4ccd223691804df0e946d8f5f6ba4.jpg" group-title="*DC / DC MOVIES",Legión de superhéroes (2023)
+http://castlempire.site:8080/movie/UserTest1Octubre_00f/fTQHy3hQDtjs/247143.mkv
+EXTINF:
 
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 7.jpg" group-title="**Anime",Dragon Ball 
 

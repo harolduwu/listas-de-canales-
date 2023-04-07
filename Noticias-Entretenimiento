@@ -7,19 +7,605 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
 https://593apps.pro.ec/videoIPTV593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra" tvg-logo="http://castlempire.site:8080/images/860ed830074cf9d1a87ac7584dd36f44.png" group-title="*Bajas Conexiones ",6 en la sombra
-http://castlempire.site:8080/movie/UserTest4Octubre_00e/uek4neVNWyxE/169267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amor. Boda. Azar (2020)" tvg-logo="http://castlempire.site:8080/images/860ed830074cf9d1a87ac7584dd36f44.png" group-title="*Bajas Conexiones ",Amor. Boda. Azar (2020)
-http://castlempire.site:8080/movie/UserTest5Octubre_00e/p3QcBkFxLzkZ/169268.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American.WomanSD" tvg-logo="http://castlempire.site:8080/images/860ed830074cf9d1a87ac7584dd36f44.png" group-title="*Bajas Conexiones ",American.WomanSD
-http://castlempire.site:8080/movie/UserTest1Octubre_00e/fTQHy3hQDtjs/169269.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anastasia.Once.Upon.a.Time.2019.720p.Dual" tvg-logo="http://castlempire.site:8080/images/860ed830074cf9d1a87ac7584dd36f44.png" group-title="*Bajas Conexiones ",Anastasia.Once.Upon.a.Time.2019.720p.Dual
-http://castlempire.site:8080/movie/UserTest2Octubre_00e/bqCs7jw4KQJa/169270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Attrition (2018)" tvg-logo="http://castlempire.site:8080/images/860ed830074cf9d1a87ac7584dd36f44.png" group-title="*Bajas Conexiones ",Attrition (2018)
-http://castlempire.site:8080/movie/UserTest3Octubre_00e/FskXxRJQ3Ys7/169271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn)" tvg-logo="http://castlempire.site:8080/images/e875390df8066a4cc721d13fa1b2580b.jpg" group-title="*Bajas Conexiones ",Aves de presa (y la fantabulosa emancipación de Harley Quinn)
-http://castlempire.site:8080/movie/UserTest4Octubre_00e/uek4neVNWyxE/169272.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bill y Ted salvan el universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Sybzk8HS4hkyGJWNFvxpTF628.jpg" group-title="*Bajas Conexiones ",Bill y Ted salvan el universo (2020)
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E01" tvg-logo="http://castlempire.site:8080/images/455223011eece84a125d9810703afea6.jpg" group-title="**SuperHeroes",The Flash S01 E01
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E02" tvg-logo="http://castlempire.site:8080/images/f9fb89360e6988e2dcb881a8aacda092.jpg" group-title="**SuperHeroes",The Flash S01 E02
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E03" tvg-logo="http://castlempire.site:8080/images/8420b605c9fe5b15af9c938c53abf189.jpg" group-title="**SuperHeroes",The Flash S01 E03
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E04" tvg-logo="http://castlempire.site:8080/images/4658e7db71265856ca4d07b2cbd948b8.jpg" group-title="**SuperHeroes",The Flash S01 E04
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E05" tvg-logo="http://castlempire.site:8080/images/b0f6e16174afaa2bffc0fac89b9ea04d.jpg" group-title="**SuperHeroes",The Flash S01 E05
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E06" tvg-logo="http://castlempire.site:8080/images/5ee484f8d14491bb19e1c0c2ec5e6213.jpg" group-title="**SuperHeroes",The Flash S01 E06
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E07" tvg-logo="http://castlempire.site:8080/images/0c7ec5565f817af5cac0a3a478667cd9.jpg" group-title="**SuperHeroes",The Flash S01 E07
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E08" tvg-logo="http://castlempire.site:8080/images/237e9e965fe63999dc49bfc1471a59b2.jpg" group-title="**SuperHeroes",The Flash S01 E08
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E09" tvg-logo="http://castlempire.site:8080/images/1f8ce0bd113eda4d43ed1c4956fab499.jpg" group-title="**SuperHeroes",The Flash S01 E09
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E10" tvg-logo="http://castlempire.site:8080/images/e16cd4a51250a1433f98682a1a4900ba.jpg" group-title="**SuperHeroes",The Flash S01 E10
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E11" tvg-logo="http://castlempire.site:8080/images/168eb2c38f0e5c1ee034d5eea366d15f.jpg" group-title="**SuperHeroes",The Flash S01 E11
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E12" tvg-logo="http://castlempire.site:8080/images/541bf485a149ac7bcd80f00e8d60f59f.jpg" group-title="**SuperHeroes",The Flash S01 E12
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E13" tvg-logo="http://castlempire.site:8080/images/67bd1b680dde427961f9372ea1dbc3f1.jpg" group-title="**SuperHeroes",The Flash S01 E13
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139476.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S01 E14" tvg-logo="http://castlempire.site:8080/images/2a763642b3150884db31a4950e49dea6.jpg" group-title="**SuperHeroes",The Flash S01 E14
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E01" tvg-logo="http://castlempire.site:8080/images/596004787eeca51fdbc665ac5d569e54.jpg" group-title="**SuperHeroes",The Flash S02 E01
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E02" tvg-logo="http://castlempire.site:8080/images/ddbedf3163eb7fcbedce548d0fc78b13.jpg" group-title="**SuperHeroes",The Flash S02 E02
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E03" tvg-logo="http://castlempire.site:8080/images/66056f0404484ce36a8db0d83b7a8e77.jpg" group-title="**SuperHeroes",The Flash S02 E03
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E04" tvg-logo="http://castlempire.site:8080/images/9d9834fea1564813c4c1ca9aa282969e.jpg" group-title="**SuperHeroes",The Flash S02 E04
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E05" tvg-logo="http://castlempire.site:8080/images/bb9527aa25fdb65fa85fa3e10e4526fa.jpg" group-title="**SuperHeroes",The Flash S02 E05
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E06" tvg-logo="http://castlempire.site:8080/images/c414e7f3886d5b096ba2fee31df1b242.jpg" group-title="**SuperHeroes",The Flash S02 E06
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E07" tvg-logo="http://castlempire.site:8080/images/63fc3f00b64d6ef7a0a2e9b517a2a99c.jpg" group-title="**SuperHeroes",The Flash S02 E07
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E08" tvg-logo="http://castlempire.site:8080/images/e5718b1e7553ba88719665b3b1cd4e79.jpg" group-title="**SuperHeroes",The Flash S02 E08
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E09" tvg-logo="http://castlempire.site:8080/images/2458379af8f91b5a430c3ee72d0609e8.jpg" group-title="**SuperHeroes",The Flash S02 E09
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E10" tvg-logo="http://castlempire.site:8080/images/61576ac19edca5e490e44a8cd7e037dc.jpg" group-title="**SuperHeroes",The Flash S02 E10
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E11" tvg-logo="http://castlempire.site:8080/images/c6e01466a4dcaa75ba83c0d4e5871da7.jpg" group-title="**SuperHeroes",The Flash S02 E11
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E12" tvg-logo="http://castlempire.site:8080/images/cacb28669d94d7552425c312b7d77feb.jpg" group-title="**SuperHeroes",The Flash S02 E12
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E13" tvg-logo="http://castlempire.site:8080/images/3df17541892269e6417070f6e4876647.jpg" group-title="**SuperHeroes",The Flash S02 E13
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E14" tvg-logo="http://castlempire.site:8080/images/ff5dc3ee6a379571d00306367e359be2.jpg" group-title="**SuperHeroes",The Flash S02 E14
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E15" tvg-logo="http://castlempire.site:8080/images/98b92f0dbd1efeb5cf43e8297f9f29d6.jpg" group-title="**SuperHeroes",The Flash S02 E15
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E16" tvg-logo="http://castlempire.site:8080/images/99a38d76cc7608be426147c714ecad32.jpg" group-title="**SuperHeroes",The Flash S02 E16
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E17" tvg-logo="http://castlempire.site:8080/images/9c2dcd362a00a1d4103ebdc8426fdf13.jpg" group-title="**SuperHeroes",The Flash S02 E17
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E18" tvg-logo="http://castlempire.site:8080/images/4a67f87f5f3a8ba734074cb245c988f0.jpg" group-title="**SuperHeroes",The Flash S02 E18
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E19" tvg-logo="http://castlempire.site:8080/images/d8ef76ce60c3bb624d81ccdcfc9225d6.jpg" group-title="**SuperHeroes",The Flash S02 E19
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E20" tvg-logo="http://castlempire.site:8080/images/092905b4e237970b35836e1443930063.jpg" group-title="**SuperHeroes",The Flash S02 E20
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E21" tvg-logo="http://castlempire.site:8080/images/fac3d2f1ec0eb0d7893261242891dc4f.jpg" group-title="**SuperHeroes",The Flash S02 E21
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E22" tvg-logo="http://castlempire.site:8080/images/e35cad64e20af54ec634cbd4c541b2cd.jpg" group-title="**SuperHeroes",The Flash S02 E22
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S02 E23" tvg-logo="http://castlempire.site:8080/images/580d6e7f55203092e8782136f2d47c58.jpg" group-title="**SuperHeroes",The Flash S02 E23
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E01" tvg-logo="http://castlempire.site:8080/images/c688e83f7c750796c4c5143376254f73.jpg" group-title="**SuperHeroes",The Flash S03 E01
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E02" tvg-logo="http://castlempire.site:8080/images/e472152c9fd48d2a7a8cf1b18b4d95d9.jpg" group-title="**SuperHeroes",The Flash S03 E02
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E03" tvg-logo="http://castlempire.site:8080/images/9ae3e59e69bf5cfcc7e44dc795252d0d.jpg" group-title="**SuperHeroes",The Flash S03 E03
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E04" tvg-logo="http://castlempire.site:8080/images/25bd36670a4d5bda4bdd3906df774b11.jpg" group-title="**SuperHeroes",The Flash S03 E04
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E05" tvg-logo="http://castlempire.site:8080/images/bc8904a54e80f3805cfe80025dba8aad.jpg" group-title="**SuperHeroes",The Flash S03 E05
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E06" tvg-logo="http://castlempire.site:8080/images/2161b8ad4e1ef4e89bd8d82526eeff0f.jpg" group-title="**SuperHeroes",The Flash S03 E06
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E07" tvg-logo="http://castlempire.site:8080/images/9a3fcb94b127988f773b1413977605a5.jpg" group-title="**SuperHeroes",The Flash S03 E07
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E08" tvg-logo="http://castlempire.site:8080/images/391661e0e122e5b7fe8b83dfbbcf835a.jpg" group-title="**SuperHeroes",The Flash S03 E08
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E09" tvg-logo="http://castlempire.site:8080/images/1e65af72b529012c72bbcd9ac5c632c8.jpg" group-title="**SuperHeroes",The Flash S03 E09
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E10" tvg-logo="http://castlempire.site:8080/images/ed124ad448f405b90af372a7e3ecca0c.jpg" group-title="**SuperHeroes",The Flash S03 E10
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E11" tvg-logo="http://castlempire.site:8080/images/f3cf9ca9a55ed7dfd0c18bc57f7c9aec.jpg" group-title="**SuperHeroes",The Flash S03 E11
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E12" tvg-logo="http://castlempire.site:8080/images/a943e6efaf2a942de049e2e6b412e75a.jpg" group-title="**SuperHeroes",The Flash S03 E12
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E13" tvg-logo="http://castlempire.site:8080/images/d875e0bf349cfef62cf1e823368bd6b5.jpg" group-title="**SuperHeroes",The Flash S03 E13
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E14" tvg-logo="http://castlempire.site:8080/images/90cd48bf0b5faa634c1c88d22a300ef9.jpg" group-title="**SuperHeroes",The Flash S03 E14
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S03 E15" tvg-logo="http://castlempire.site:8080/images/fa75915cff56a31df6ebf46036f62525.jpg" group-title="**SuperHeroes",The Flash S03 E15
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E01" tvg-logo="http://castlempire.site:8080/images/305154f744ceead81bcc833b1a23635f.jpg" group-title="**SuperHeroes",The Flash S04 E01
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E02" tvg-logo="http://castlempire.site:8080/images/4d0b657e2433186d548c1b687ed3b0d7.jpg" group-title="**SuperHeroes",The Flash S04 E02
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E03" tvg-logo="http://castlempire.site:8080/images/0f5ad9a3cb605d19f9ca3a8cc2b4782a.jpg" group-title="**SuperHeroes",The Flash S04 E03
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E04" tvg-logo="http://castlempire.site:8080/images/62fececb7c4cb0195905e0cc0e4acbcd.jpg" group-title="**SuperHeroes",The Flash S04 E04
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E05" tvg-logo="http://castlempire.site:8080/images/bc4d97ef66d7fa2bfbad6b8f4c5a8c0a.jpg" group-title="**SuperHeroes",The Flash S04 E05
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E06" tvg-logo="http://castlempire.site:8080/images/77a6e6d51ca0bcd8236a8ab0fc329e80.jpg" group-title="**SuperHeroes",The Flash S04 E06
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E07" tvg-logo="http://castlempire.site:8080/images/daec85784d333843eb0391e1498ee277.jpg" group-title="**SuperHeroes",The Flash S04 E07
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E08" tvg-logo="http://castlempire.site:8080/images/8240c350484491ef4097a6648432875d.jpg" group-title="**SuperHeroes",The Flash S04 E08
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E09" tvg-logo="http://castlempire.site:8080/images/855470d4cb3af145c9863f2b91077284.jpg" group-title="**SuperHeroes",The Flash S04 E09
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E10" tvg-logo="http://castlempire.site:8080/images/cb8aa977db4921c77dd07b889b6e66d7.jpg" group-title="**SuperHeroes",The Flash S04 E10
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E11" tvg-logo="http://castlempire.site:8080/images/f788bec6ff9f8d6c1f0ef9661979b974.jpg" group-title="**SuperHeroes",The Flash S04 E11
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E12" tvg-logo="http://castlempire.site:8080/images/b7114793a3841edc43b32827f76e602f.jpg" group-title="**SuperHeroes",The Flash S04 E12
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E13" tvg-logo="http://castlempire.site:8080/images/93a66f44edd125fc8a6111051eedae3f.jpg" group-title="**SuperHeroes",The Flash S04 E13
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E14" tvg-logo="http://castlempire.site:8080/images/8dab53e860943c7c695ef4eb28709dfb.jpg" group-title="**SuperHeroes",The Flash S04 E14
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E15" tvg-logo="http://castlempire.site:8080/images/b793d39463aa30e3115d5763f9534fb6.jpg" group-title="**SuperHeroes",The Flash S04 E15
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E16" tvg-logo="http://castlempire.site:8080/images/727fd0f2a30b23d1858fc01a7d317b88.jpg" group-title="**SuperHeroes",The Flash S04 E16
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E17" tvg-logo="http://castlempire.site:8080/images/8a3d402a42bedc0bfccefaa047ede647.jpg" group-title="**SuperHeroes",The Flash S04 E17
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E18" tvg-logo="http://castlempire.site:8080/images/27390686f44768fcfa580d2916c35a45.jpg" group-title="**SuperHeroes",The Flash S04 E18
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E19" tvg-logo="http://castlempire.site:8080/images/07157eaea15343a4ad2a2061bdb2df67.jpg" group-title="**SuperHeroes",The Flash S04 E19
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E20" tvg-logo="http://castlempire.site:8080/images/ed228f63fd547af083265f8205a6ce37.jpg" group-title="**SuperHeroes",The Flash S04 E20
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E21" tvg-logo="http://castlempire.site:8080/images/ca35ef454011ccb2d12dacdff34dc4c1.jpg" group-title="**SuperHeroes",The Flash S04 E21
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E22" tvg-logo="http://castlempire.site:8080/images/7baba6a13ccb415d9646e069944e74ac.jpg" group-title="**SuperHeroes",The Flash S04 E22
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S04 E23" tvg-logo="http://castlempire.site:8080/images/ff4051e0d6b1875ace67c79dcef6db6c.jpg" group-title="**SuperHeroes",The Flash S04 E23
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E01" tvg-logo="http://castlempire.site:8080/images/3e3c156e84afe63c84dd1bffb3bcb843.jpg" group-title="**SuperHeroes",The Flash S05 E01
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E02" tvg-logo="http://castlempire.site:8080/images/8ee1bb2da26c2329af1ff3f6d99fb6a3.jpg" group-title="**SuperHeroes",The Flash S05 E02
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E03" tvg-logo="http://castlempire.site:8080/images/0a6a8f071f4c86a8e17fe58f36ec3e99.jpg" group-title="**SuperHeroes",The Flash S05 E03
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E04" tvg-logo="http://castlempire.site:8080/images/9a63bae21d74e668dcde29e683a353dc.jpg" group-title="**SuperHeroes",The Flash S05 E04
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E05" tvg-logo="http://castlempire.site:8080/images/91cc57647e96a3368c8089f111c4b4b7.jpg" group-title="**SuperHeroes",The Flash S05 E05
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E06" tvg-logo="http://castlempire.site:8080/images/d6a67d0ee330e5217b8f099be2a96528.jpg" group-title="**SuperHeroes",The Flash S05 E06
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E07" tvg-logo="http://castlempire.site:8080/images/1d026e581a327de910540d19a7b1420a.jpg" group-title="**SuperHeroes",The Flash S05 E07
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E08" tvg-logo="http://castlempire.site:8080/images/2abe17b506776b711fe818f78b1eb723.jpg" group-title="**SuperHeroes",The Flash S05 E08
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E09" tvg-logo="http://castlempire.site:8080/images/0f2e9279225f5853b12556dcef994ce3.jpg" group-title="**SuperHeroes",The Flash S05 E09
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E10" tvg-logo="http://castlempire.site:8080/images/0f40f374ef54e970d6c0b63bf4213265.jpg" group-title="**SuperHeroes",The Flash S05 E10
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E11" tvg-logo="http://castlempire.site:8080/images/cfb3acedf8617a4c0dc4a15b0ce4d1a9.jpg" group-title="**SuperHeroes",The Flash S05 E11
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E12" tvg-logo="http://castlempire.site:8080/images/6cedc3d806a7a04c2a7a90be4a41fbd9.jpg" group-title="**SuperHeroes",The Flash S05 E12
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E13" tvg-logo="http://castlempire.site:8080/images/6cf7b03eef93758c33379fda558ffc66.jpg" group-title="**SuperHeroes",The Flash S05 E13
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E14" tvg-logo="http://castlempire.site:8080/images/680f206a648e73583caa591d0590b290.jpg" group-title="**SuperHeroes",The Flash S05 E14
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E15" tvg-logo="http://castlempire.site:8080/images/3719347fe4516569b0cd3e5aa398aa66.jpg" group-title="**SuperHeroes",The Flash S05 E15
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E16" tvg-logo="http://castlempire.site:8080/images/3bc3f39ed60def255ed3c0edb4a568d6.jpg" group-title="**SuperHeroes",The Flash S05 E16
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E17" tvg-logo="http://castlempire.site:8080/images/7ccffb90dbe01d9cc8bddf1052e1892a.jpg" group-title="**SuperHeroes",The Flash S05 E17
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E18" tvg-logo="http://castlempire.site:8080/images/b86ee7c4ffbd58b2942b43a799376d8c.jpg" group-title="**SuperHeroes",The Flash S05 E18
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E19" tvg-logo="http://castlempire.site:8080/images/68d1d8d0318c11519facabe1325662aa.jpg" group-title="**SuperHeroes",The Flash S05 E19
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E20" tvg-logo="http://castlempire.site:8080/images/6401fb8c6015a4f552921f082cd422b8.jpg" group-title="**SuperHeroes",The Flash S05 E20
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E21" tvg-logo="http://castlempire.site:8080/images/757b25e3a3b28c761070a521d88e263e.jpg" group-title="**SuperHeroes",The Flash S05 E21
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E22" tvg-logo="http://castlempire.site:8080/images/4180a60533e5930777b65fb21d685bba.jpg" group-title="**SuperHeroes",The Flash S05 E22
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E01" tvg-logo="http://castlempire.site:8080/images/1c05fedb688a9459997f54fde57396bf.jpg" group-title="**SuperHeroes",The Flash S06 E01
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E02" tvg-logo="http://castlempire.site:8080/images/49d7ededf281848c907c0f6d11b3b3d2.jpg" group-title="**SuperHeroes",The Flash S06 E02
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E03" tvg-logo="http://castlempire.site:8080/images/b1b0a65f8b760548765630d67ea2d85c.jpg" group-title="**SuperHeroes",The Flash S06 E03
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E04" tvg-logo="http://castlempire.site:8080/images/2859a2175caa9368a78d4d19ee77112d.jpg" group-title="**SuperHeroes",The Flash S06 E04
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E05" tvg-logo="http://castlempire.site:8080/images/fcbb5f5c0ab465fa4567692515227369.jpg" group-title="**SuperHeroes",The Flash S06 E05
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E06" tvg-logo="http://castlempire.site:8080/images/05b0bf814c887f2eee27ac2abaaddb78.jpg" group-title="**SuperHeroes",The Flash S06 E06
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E07" tvg-logo="http://castlempire.site:8080/images/d3010742313f25c09cb3f8dacc39798f.jpg" group-title="**SuperHeroes",The Flash S06 E07
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E08" tvg-logo="http://castlempire.site:8080/images/d4d77e858fd4141f676f5a312bca831f.jpg" group-title="**SuperHeroes",The Flash S06 E08
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E09" tvg-logo="http://castlempire.site:8080/images/a6534b8dea1795edf486a84328c53984.jpg" group-title="**SuperHeroes",The Flash S06 E09
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E10" tvg-logo="http://castlempire.site:8080/images/3a446d40b4a25276c39cca52ccdb1593.jpg" group-title="**SuperHeroes",The Flash S06 E10
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E11" tvg-logo="http://castlempire.site:8080/images/3d30e5f730621b60b31c0655b2fafe40.jpg" group-title="**SuperHeroes",The Flash S06 E11
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E12" tvg-logo="http://castlempire.site:8080/images/5dad9af23a7b91b0c82781f1fdcede90.jpg" group-title="**SuperHeroes",The Flash S06 E12
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E13" tvg-logo="http://castlempire.site:8080/images/4875576f09eec1778cf5e1605573f83a.jpg" group-title="**SuperHeroes",The Flash S06 E13
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E14" tvg-logo="http://castlempire.site:8080/images/7cb9d7eddbf16d6428fcc97dc0e69254.jpg" group-title="**SuperHeroes",The Flash S06 E14
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E15" tvg-logo="http://castlempire.site:8080/images/9b18b9391495adfbadcdba3f8bf1effa.jpg" group-title="**SuperHeroes",The Flash S06 E15
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/139575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E16" tvg-logo="http://castlempire.site:8080/images/66d8db5d4b18c7411b5ce7d9739dee87.jpg" group-title="**SuperHeroes",The Flash S06 E16
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/139576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E17" tvg-logo="http://castlempire.site:8080/images/e9e8138f1e578bfcb494e4f49ed31e3d.jpg" group-title="**SuperHeroes",The Flash S06 E17
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/139577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E18" tvg-logo="http://castlempire.site:8080/images/0d1414c124f55c31e3d43bf6cae6518d.jpg" group-title="**SuperHeroes",The Flash S06 E18
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/139578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S06 E19" tvg-logo="http://castlempire.site:8080/images/78c73b44ddccc3e8c2f4f242e05f9b5a.jpg" group-title="**SuperHeroes",The Flash S06 E19
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/139579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E01" tvg-logo="http://castlempire.site:8080/images/6f8b537960523b60ae96a6621272ce9e.jpg" group-title="**SuperHeroes",The Flash S07 E01
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E02" tvg-logo="http://castlempire.site:8080/images/2e31bbe82ef15f591561f09806a3e821.jpg" group-title="**SuperHeroes",The Flash S07 E02
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E03" tvg-logo="http://castlempire.site:8080/images/cc6249c3da3c591b7428d485376ff0c1.jpg" group-title="**SuperHeroes",The Flash S07 E03
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E04" tvg-logo="http://castlempire.site:8080/images/f734d221d7b6810962e22857082cca2b.jpg" group-title="**SuperHeroes",The Flash S07 E04
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E05" tvg-logo="http://castlempire.site:8080/images/a20bd5913c082f12f143b3987c3a9365.jpg" group-title="**SuperHeroes",The Flash S07 E05
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E06" tvg-logo="http://castlempire.site:8080/images/79a2e9305cac3ae4a9c5ea687ed4d864.jpg" group-title="**SuperHeroes",The Flash S07 E06
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E07" tvg-logo="http://castlempire.site:8080/images/3faa7fefe370be59947841054e853189.jpg" group-title="**SuperHeroes",The Flash S07 E07
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E08" tvg-logo="http://castlempire.site:8080/images/a4aaefed00ea52575ce20a1aa8fa5944.jpg" group-title="**SuperHeroes",The Flash S07 E08
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E09" tvg-logo="http://castlempire.site:8080/images/148d3b60d55090e42b9ee8b9bdb3498f.jpg" group-title="**SuperHeroes",The Flash S07 E09
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E10" tvg-logo="http://castlempire.site:8080/images/b6bf5a1562bc1ad854c0cbd087452206.jpg" group-title="**SuperHeroes",The Flash S07 E10
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E11" tvg-logo="http://castlempire.site:8080/images/db7a48cb2913fc75f181f9e4d03662ef.jpg" group-title="**SuperHeroes",The Flash S07 E11
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E12" tvg-logo="http://castlempire.site:8080/images/01f9ef6fc2e27d3db269440c4a62ea6f.jpg" group-title="**SuperHeroes",The Flash S07 E12
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E13" tvg-logo="http://castlempire.site:8080/images/e0b611352e1a608bc912203e760ffa49.jpg" group-title="**SuperHeroes",The Flash S07 E13
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E14" tvg-logo="http://castlempire.site:8080/images/359f19dd6f013cb079765fe0f6b3c9df.jpg" group-title="**SuperHeroes",The Flash S07 E14
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E15" tvg-logo="http://castlempire.site:8080/images/689f939c0d585f6bf71db22430114b0b.jpg" group-title="**SuperHeroes",The Flash S07 E15
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E16" tvg-logo="http://castlempire.site:8080/images/2b6e87824a6438fec8236f44f6daa4fd.jpg" group-title="**SuperHeroes",The Flash S07 E16
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E17" tvg-logo="http://castlempire.site:8080/images/cef16508444ea0c567a1b5137d24539e.jpg" group-title="**SuperHeroes",The Flash S07 E17
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S07 E18" tvg-logo="http://castlempire.site:8080/images/7b9d4a625e86aec2d969559e8e651ce1.jpg" group-title="**SuperHeroes",The Flash S07 E18
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E01" tvg-logo="http://castlempire.site:8080/images/7abf3113db3d3ddd5bbf5fd98534a15a.jpg" group-title="**SuperHeroes",The Flash S08 E01
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E02" tvg-logo="http://castlempire.site:8080/images/e95965eb0bdd6bb37454f44b279b66ba.jpg" group-title="**SuperHeroes",The Flash S08 E02
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E03" tvg-logo="http://castlempire.site:8080/images/fa8be418593f1f982a241690afd00357.jpg" group-title="**SuperHeroes",The Flash S08 E03
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E04" tvg-logo="http://castlempire.site:8080/images/716ef6452505dca2ea0997fbaef314ea.jpg" group-title="**SuperHeroes",The Flash S08 E04
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E05" tvg-logo="http://castlempire.site:8080/images/e22a5351bda5df5e335f8f6365621bcd.jpg" group-title="**SuperHeroes",The Flash S08 E05
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E06" tvg-logo="http://castlempire.site:8080/images/03a0ca1a5c5b5eb321e9aee65974d42c.jpg" group-title="**SuperHeroes",The Flash S08 E06
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E07" tvg-logo="http://castlempire.site:8080/images/ead2c62baeb84538c727240425efe485.jpg" group-title="**SuperHeroes",The Flash S08 E07
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E08" tvg-logo="http://castlempire.site:8080/images/a8306b6c7c30e2f72cf0da9bbe7231ba.jpg" group-title="**SuperHeroes",The Flash S08 E08
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E09" tvg-logo="http://castlempire.site:8080/images/e3a9bccd2034670f2ae5c4a8d03c1544.jpg" group-title="**SuperHeroes",The Flash S08 E09
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E10" tvg-logo="http://castlempire.site:8080/images/c5aca6e16b58d28761c5a1d0dec3a5de.jpg" group-title="**SuperHeroes",The Flash S08 E10
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E11" tvg-logo="http://castlempire.site:8080/images/6f5daad5e04fa6d0380c0c4b8e1f755d.jpg" group-title="**SuperHeroes",The Flash S08 E11
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E12" tvg-logo="http://castlempire.site:8080/images/84a98beda1a5db4b4f06c2fa46e82c52.jpg" group-title="**SuperHeroes",The Flash S08 E12
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E13" tvg-logo="http://castlempire.site:8080/images/b7af3a283c26942b02322a30185ca45b.jpg" group-title="**SuperHeroes",The Flash S08 E13
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E14" tvg-logo="http://castlempire.site:8080/images/b6dca66b3f5ca266aaaabf3e06825801.jpg" group-title="**SuperHeroes",The Flash S08 E14
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E15" tvg-logo="http://castlempire.site:8080/images/0fed95e54a46f20dacb9fe2a834425e6.jpg" group-title="**SuperHeroes",The Flash S08 E15
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E16" tvg-logo="http://castlempire.site:8080/images/c10c7f38f7304aa372806b1bcdd18d40.jpg" group-title="**SuperHeroes",The Flash S08 E16
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E17" tvg-logo="http://castlempire.site:8080/images/0f4771ecdf70c9bb093ec3a132f40205.jpg" group-title="**SuperHeroes",The Flash S08 E17
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/249688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E18" tvg-logo="http://castlempire.site:8080/images/24049fc6efa2c8c886708a6a7dc9787d.jpg" group-title="**SuperHeroes",The Flash S08 E18
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/249689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E19" tvg-logo="http://castlempire.site:8080/images/e350d92ac9a9db3cbfb110a31a94c9b0.jpg" group-title="**SuperHeroes",The Flash S08 E19
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/249690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S08 E20" tvg-logo="http://castlempire.site:8080/images/3f3136e482fa8fc6fd99b110ac81fb17.jpg" group-title="**SuperHeroes",The Flash S08 E20
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/249691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E01" tvg-logo="http://castlempire.site:8080/images/a20d4388a2bd9c08aea975460e660896.jpg" group-title="**SuperHeroes",The Flash S09 E01
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/249692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E02" tvg-logo="http://castlempire.site:8080/images/d97dfa2d172f1c24c709032791216bab.jpg" group-title="**SuperHeroes",The Flash S09 E02
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/250368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E03" tvg-logo="http://castlempire.site:8080/images/b4e8fa2a818a2b9d36a9be3c8c48f7c6.jpg" group-title="**SuperHeroes",The Flash S09 E03
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/253239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E04" tvg-logo="http://castlempire.site:8080/images/535af194bce35cba0e8abecf65d58c53.jpg" group-title="**SuperHeroes",The Flash S09 E04
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/253240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S09 E05" tvg-logo="http://castlempire.site:8080/images/db8d0af31bbbbb98f075f63fc30c32b4.jpg" group-title="**SuperHeroes",The Flash S09 E05
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/253241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E01" tvg-logo="http://castlempire.site:8080/images/b697b234bad08b7ed5334c97a4eec202.jpg" group-title="**SuperHeroes",Krypton S01 E01
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/160788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E02" tvg-logo="http://castlempire.site:8080/images/cf3e7518a00cdfbef0632b5dd21c543c.jpg" group-title="**SuperHeroes",Krypton S01 E02
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/160789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E03" tvg-logo="http://castlempire.site:8080/images/85a045a05abe979e5e96d512ea750aea.jpg" group-title="**SuperHeroes",Krypton S01 E03
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/160790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E04" tvg-logo="http://castlempire.site:8080/images/7f2c663c866140447cb6abbff4b90824.jpg" group-title="**SuperHeroes",Krypton S01 E04
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/160791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E05" tvg-logo="http://castlempire.site:8080/images/340744df0509b99f0a4dc726263233c5.jpg" group-title="**SuperHeroes",Krypton S01 E05
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/160792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E06" tvg-logo="http://castlempire.site:8080/images/b63e8dff8d8d997da4ba6e0fc61554e1.jpg" group-title="**SuperHeroes",Krypton S01 E06
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/160793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E07" tvg-logo="http://castlempire.site:8080/images/b6d8e2e67f1d9d608483451934aca1dd.jpg" group-title="**SuperHeroes",Krypton S01 E07
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/160794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E08" tvg-logo="http://castlempire.site:8080/images/34b672dcb7dc764d3be584794fd203b2.jpg" group-title="**SuperHeroes",Krypton S01 E08
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/160795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E09" tvg-logo="http://castlempire.site:8080/images/5fb27d19e21e0573146bc9e6ad8bd6ea.jpg" group-title="**SuperHeroes",Krypton S01 E09
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/160796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S01 E10" tvg-logo="http://castlempire.site:8080/images/6aa50eb0d26f15fe9140829858e65abe.jpg" group-title="**SuperHeroes",Krypton S01 E10
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/160797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E01" tvg-logo="http://castlempire.site:8080/images/2974a187facf4245276c4cdb4ab4ae85.jpg" group-title="**SuperHeroes",Krypton S02 E01
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/160798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E02" tvg-logo="http://castlempire.site:8080/images/65cba425c76afe96724fc8c353b0e087.jpg" group-title="**SuperHeroes",Krypton S02 E02
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/160799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E03" tvg-logo="http://castlempire.site:8080/images/e69df7a35abaa27c91a1b238faf36c8e.jpg" group-title="**SuperHeroes",Krypton S02 E03
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/160800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E04" tvg-logo="http://castlempire.site:8080/images/4cddf0db3f7204961688790f2fcfa228.jpg" group-title="**SuperHeroes",Krypton S02 E04
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/160801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E05" tvg-logo="http://castlempire.site:8080/images/37010dded0480d7f490429a3cc6a42b7.jpg" group-title="**SuperHeroes",Krypton S02 E05
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/160802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E06" tvg-logo="http://castlempire.site:8080/images/701410511293805e86ff324c45014d33.jpg" group-title="**SuperHeroes",Krypton S02 E06
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/160803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E07" tvg-logo="http://castlempire.site:8080/images/cde5b9f83f9f6a318c77882fa20595fc.jpg" group-title="**SuperHeroes",Krypton S02 E07
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/160804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E08" tvg-logo="http://castlempire.site:8080/images/5692180afd786bf73359a0b8b8e14fc9.jpg" group-title="**SuperHeroes",Krypton S02 E08
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/160805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krypton S02 E09" tvg-logo="http://castlempire.site:8080/images/bed503e395277b61da4b28a3a75a803a.jpg" group-title="**SuperHeroes",Krypton S02 E09
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/160806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E01" tvg-logo="http://castlempire.site:8080/images/57af6f9f921719369f337ba5d8da81a0.jpg" group-title="**SuperHeroes",Invencible S01 E01
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/171466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E02" tvg-logo="http://castlempire.site:8080/images/04d6cde566f72951f8d461bff932aa9f.jpg" group-title="**SuperHeroes",Invencible S01 E02
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/171467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E03" tvg-logo="http://castlempire.site:8080/images/7034ffabe1635f49f3ef1ea27004086a.jpg" group-title="**SuperHeroes",Invencible S01 E03
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/171468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E04" tvg-logo="http://castlempire.site:8080/images/9081bb10eb4bca93bb84e198a52af65c.jpg" group-title="**SuperHeroes",Invencible S01 E04
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/171469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E05" tvg-logo="http://castlempire.site:8080/images/e729cad479871316d9502991c0192253.jpg" group-title="**SuperHeroes",Invencible S01 E05
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/171470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E06" tvg-logo="http://castlempire.site:8080/images/4c6f68565decab349a45272caf2edfdd.jpg" group-title="**SuperHeroes",Invencible S01 E06
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/171471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E07" tvg-logo="http://castlempire.site:8080/images/46b19e82b2a5dbc3ee1cd9c7e7f0b2d3.jpg" group-title="**SuperHeroes",Invencible S01 E07
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/171472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invencible S01 E08" tvg-logo="http://castlempire.site:8080/images/a7cb2ceedcb096cb3bdb0bf787dc3167.jpg" group-title="**SuperHeroes",Invencible S01 E08
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/171473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E01" tvg-logo="http://castlempire.site:8080/images/6e283267be2c310abe81591f1f07603c.jpg" group-title="**SuperHeroes",Stargirl S01 E01
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E02" tvg-logo="http://castlempire.site:8080/images/07f214c5f052513e2275c7c589c5290b.jpg" group-title="**SuperHeroes",Stargirl S01 E02
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E03" tvg-logo="http://castlempire.site:8080/images/1eba8e729fd2d7b0a403fe899469e265.jpg" group-title="**SuperHeroes",Stargirl S01 E03
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E04" tvg-logo="http://castlempire.site:8080/images/66bc7704809d1a5404e39ddd733beb74.jpg" group-title="**SuperHeroes",Stargirl S01 E04
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E05" tvg-logo="http://castlempire.site:8080/images/989f5b699dae5853c8a09cd04cfe9ff9.jpg" group-title="**SuperHeroes",Stargirl S01 E05
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E06" tvg-logo="http://castlempire.site:8080/images/8e11a915e7f3d9516c77e6714177563d.jpg" group-title="**SuperHeroes",Stargirl S01 E06
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E07" tvg-logo="http://castlempire.site:8080/images/e73a4e85418279266bafddb8956df3eb.jpg" group-title="**SuperHeroes",Stargirl S01 E07
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E08" tvg-logo="http://castlempire.site:8080/images/6f7dd8620221ec67489d54084b04621e.jpg" group-title="**SuperHeroes",Stargirl S01 E08
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E09" tvg-logo="http://castlempire.site:8080/images/ee326e7e2054c365a94cd15c1719a532.jpg" group-title="**SuperHeroes",Stargirl S01 E09
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E10" tvg-logo="http://castlempire.site:8080/images/bf1ccbd2095efcd295b15e3d97be3fc4.jpg" group-title="**SuperHeroes",Stargirl S01 E10
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E11" tvg-logo="http://castlempire.site:8080/images/0c4b49f89f7f06d0c8a39cfbfa6ec77d.jpg" group-title="**SuperHeroes",Stargirl S01 E11
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E12" tvg-logo="http://castlempire.site:8080/images/91e86caba60c1144a4f9ec52c9a7b1ab.jpg" group-title="**SuperHeroes",Stargirl S01 E12
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S01 E13" tvg-logo="http://castlempire.site:8080/images/e99d4393239be8896cdfa4b97af32968.jpg" group-title="**SuperHeroes",Stargirl S01 E13
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E01" tvg-logo="http://castlempire.site:8080/images/9880fcb7c03543a45ee055f45b196eff.jpg" group-title="**SuperHeroes",Stargirl S02 E01
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/180755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E02" tvg-logo="http://castlempire.site:8080/images/f06c976ccdee86bd90e6ecd72ba553bb.jpg" group-title="**SuperHeroes",Stargirl S02 E02
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/180756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E03" tvg-logo="http://castlempire.site:8080/images/4c243df1fae521b1fc62ad59185300d2.jpg" group-title="**SuperHeroes",Stargirl S02 E03
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/180757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E04" tvg-logo="http://castlempire.site:8080/images/716a5abd0c95cd2e65aacdff8910bbd7.jpg" group-title="**SuperHeroes",Stargirl S02 E04
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/180758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E05" tvg-logo="http://castlempire.site:8080/images/6834ac953c14ba2cd77c5038f82881e1.jpg" group-title="**SuperHeroes",Stargirl S02 E05
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/180759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E06" tvg-logo="http://castlempire.site:8080/images/c2cf813c58b308cf595d2279dcc4fa88.jpg" group-title="**SuperHeroes",Stargirl S02 E06
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/180760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E07" tvg-logo="http://castlempire.site:8080/images/2419d8086007068258814045d3e8967a.jpg" group-title="**SuperHeroes",Stargirl S02 E07
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/181861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E08" tvg-logo="http://castlempire.site:8080/images/be607287ebaa1ce3a14179a59d4686d1.jpg" group-title="**SuperHeroes",Stargirl S02 E08
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/181862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E09" tvg-logo="http://castlempire.site:8080/images/3bdc396174915926366335b6634896a7.jpg" group-title="**SuperHeroes",Stargirl S02 E09
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/182280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E10" tvg-logo="http://castlempire.site:8080/images/a7ca0277eb005c2a7efcdfdc6a510803.jpg" group-title="**SuperHeroes",Stargirl S02 E10
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/183065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E11" tvg-logo="http://castlempire.site:8080/images/78ef01e2374d9faf1dbdbd06a4fe9a2f.jpg" group-title="**SuperHeroes",Stargirl S02 E11
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/184606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E12" tvg-logo="http://castlempire.site:8080/images/da46ed8bfb7ae81f33679e0ebececb84.jpg" group-title="**SuperHeroes",Stargirl S02 E12
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/184607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl S02 E13" tvg-logo="http://castlempire.site:8080/images/8a7bacc6015b6556035f6af513da0aa0.jpg" group-title="**SuperHeroes",Stargirl S02 E13
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/184986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E01" tvg-logo="http://castlempire.site:8080/images/62ddb7eef3b1fb12e86330d3ea4d3f16.jpg" group-title="**SuperHeroes",Supergirl S01 E01
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E02" tvg-logo="http://castlempire.site:8080/images/b563f265386b96547fff46b053cc3a88.jpg" group-title="**SuperHeroes",Supergirl S01 E02
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E03" tvg-logo="http://castlempire.site:8080/images/5460f9525be55ada849c11b2e29f7870.jpg" group-title="**SuperHeroes",Supergirl S01 E03
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E04" tvg-logo="http://castlempire.site:8080/images/7605f858810f42fa8f66532dcc40b96f.jpg" group-title="**SuperHeroes",Supergirl S01 E04
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E05" tvg-logo="http://castlempire.site:8080/images/d6e8643ee307e80d87e25a633f9eda3b.jpg" group-title="**SuperHeroes",Supergirl S01 E05
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E06" tvg-logo="http://castlempire.site:8080/images/171f8640a458a00b493f75c8b17d695c.jpg" group-title="**SuperHeroes",Supergirl S01 E06
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E07" tvg-logo="http://castlempire.site:8080/images/ed0ec4298a2c8295f2b77aa89a2a8b3e.jpg" group-title="**SuperHeroes",Supergirl S01 E07
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E08" tvg-logo="http://castlempire.site:8080/images/e03616b07803b2fd1c31ef7e57565a2c.jpg" group-title="**SuperHeroes",Supergirl S01 E08
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E09" tvg-logo="http://castlempire.site:8080/images/5e6e298300b21d1606242b12b5a044d0.jpg" group-title="**SuperHeroes",Supergirl S01 E09
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E10" tvg-logo="http://castlempire.site:8080/images/65603af921c35c3f333d00e763bb1f3c.jpg" group-title="**SuperHeroes",Supergirl S01 E10
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E11" tvg-logo="http://castlempire.site:8080/images/cf018945e396b0b725e96d2591e82a3b.jpg" group-title="**SuperHeroes",Supergirl S01 E11
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E12" tvg-logo="http://castlempire.site:8080/images/fa30bb90d0653c6a260c00c237bf124d.jpg" group-title="**SuperHeroes",Supergirl S01 E12
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E13" tvg-logo="http://castlempire.site:8080/images/664ef83991ee3cb3da15de81e8b039a3.jpg" group-title="**SuperHeroes",Supergirl S01 E13
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E14" tvg-logo="http://castlempire.site:8080/images/26d08a5d80249339c7d51fc1b6083a6a.jpg" group-title="**SuperHeroes",Supergirl S01 E14
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E15" tvg-logo="http://castlempire.site:8080/images/9e42dd11b4eda8c9c4327a1ff4c54f77.jpg" group-title="**SuperHeroes",Supergirl S01 E15
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E16" tvg-logo="http://castlempire.site:8080/images/889d883c4b000d9ecbce504556651409.jpg" group-title="**SuperHeroes",Supergirl S01 E16
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E17" tvg-logo="http://castlempire.site:8080/images/79f477c22aa40588c23c1dbaa66bed22.jpg" group-title="**SuperHeroes",Supergirl S01 E17
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E18" tvg-logo="http://castlempire.site:8080/images/67766fcdf4363dff819b0360e1e43377.jpg" group-title="**SuperHeroes",Supergirl S01 E18
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E19" tvg-logo="http://castlempire.site:8080/images/980521a8c8260703b5ce4417198fd9db.jpg" group-title="**SuperHeroes",Supergirl S01 E19
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S01 E20" tvg-logo="http://castlempire.site:8080/images/c443eca910f5d3efc75df616fed72822.jpg" group-title="**SuperHeroes",Supergirl S01 E20
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E01" tvg-logo="http://castlempire.site:8080/images/a6547b88f4fa3ca9a4fc34e6eaefd03b.jpg" group-title="**SuperHeroes",Supergirl S02 E01
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E02" tvg-logo="http://castlempire.site:8080/images/f2eae4fd5900114c572a42e3182f94c4.jpg" group-title="**SuperHeroes",Supergirl S02 E02
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E03" tvg-logo="http://castlempire.site:8080/images/af8cefd0865836b267a0ab820076fda6.jpg" group-title="**SuperHeroes",Supergirl S02 E03
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E04" tvg-logo="http://castlempire.site:8080/images/d30467726cb4ae06c0edeb37acb05383.jpg" group-title="**SuperHeroes",Supergirl S02 E04
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E05" tvg-logo="http://castlempire.site:8080/images/5bb79914890c36d55bd1fbfaf3e1638b.jpg" group-title="**SuperHeroes",Supergirl S02 E05
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E06" tvg-logo="http://castlempire.site:8080/images/d2020abde01e96eb51aae81d13af9460.jpg" group-title="**SuperHeroes",Supergirl S02 E06
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E07" tvg-logo="http://castlempire.site:8080/images/b392dafa69b6563d7a4fb3cc6d12b043.jpg" group-title="**SuperHeroes",Supergirl S02 E07
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E08" tvg-logo="http://castlempire.site:8080/images/b025b7b24dda92c9a136a5de4a1c04d3.jpg" group-title="**SuperHeroes",Supergirl S02 E08
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E09" tvg-logo="http://castlempire.site:8080/images/7f002302608bc5d23cc65061259e06a7.jpg" group-title="**SuperHeroes",Supergirl S02 E09
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E10" tvg-logo="http://castlempire.site:8080/images/6337e8de009e9e10066e8f1380297a65.jpg" group-title="**SuperHeroes",Supergirl S02 E10
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E11" tvg-logo="http://castlempire.site:8080/images/94bf46971cdc47e93c818b145278c9ed.jpg" group-title="**SuperHeroes",Supergirl S02 E11
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E12" tvg-logo="http://castlempire.site:8080/images/76a6dd5af6b2afd595db381501bb37b0.jpg" group-title="**SuperHeroes",Supergirl S02 E12
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E13" tvg-logo="http://castlempire.site:8080/images/aaef4799d39966a38ff88dce157aa610.jpg" group-title="**SuperHeroes",Supergirl S02 E13
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E14" tvg-logo="http://castlempire.site:8080/images/7e8c4511306d439cbc115f4535c44073.jpg" group-title="**SuperHeroes",Supergirl S02 E14
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E15" tvg-logo="http://castlempire.site:8080/images/842387b147df0d195920692a21c066d7.jpg" group-title="**SuperHeroes",Supergirl S02 E15
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E16" tvg-logo="http://castlempire.site:8080/images/95904d1b9ba4e2320134af9efb736638.jpg" group-title="**SuperHeroes",Supergirl S02 E16
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E17" tvg-logo="http://castlempire.site:8080/images/5331fda7ae99e9da95f494afeed321d4.jpg" group-title="**SuperHeroes",Supergirl S02 E17
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E18" tvg-logo="http://castlempire.site:8080/images/659fb8f2dc8fc8326b56be766468b550.jpg" group-title="**SuperHeroes",Supergirl S02 E18
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E19" tvg-logo="http://castlempire.site:8080/images/1beb0b4f741c0ad25ef815ec74c8c913.jpg" group-title="**SuperHeroes",Supergirl S02 E19
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E20" tvg-logo="http://castlempire.site:8080/images/3ff9dd356e453337460ede3cda6c33be.jpg" group-title="**SuperHeroes",Supergirl S02 E20
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S02 E21" tvg-logo="http://castlempire.site:8080/images/33d4b3e3c0fb3e49699be7a3ab4570f7.jpg" group-title="**SuperHeroes",Supergirl S02 E21
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E01" tvg-logo="http://castlempire.site:8080/images/0bde56be2489e6ee6ff5e104f091f01a.jpg" group-title="**SuperHeroes",Supergirl S03 E01
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E02" tvg-logo="http://castlempire.site:8080/images/5ff04f7dc34126ecd80015e5360ae81d.jpg" group-title="**SuperHeroes",Supergirl S03 E02
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E03" tvg-logo="http://castlempire.site:8080/images/4fead6ff3e2aefa773f26eb381088722.jpg" group-title="**SuperHeroes",Supergirl S03 E03
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E04" tvg-logo="http://castlempire.site:8080/images/38b3326b40c23ed852f57cc2019569eb.jpg" group-title="**SuperHeroes",Supergirl S03 E04
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E05" tvg-logo="http://castlempire.site:8080/images/6a7aa0d605b5678aa05ebe8521206cd1.jpg" group-title="**SuperHeroes",Supergirl S03 E05
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E06" tvg-logo="http://castlempire.site:8080/images/c3c364f34f11b437a4d87f698e271a33.jpg" group-title="**SuperHeroes",Supergirl S03 E06
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E07" tvg-logo="http://castlempire.site:8080/images/321c900afc04da5019333e75c22d7ecf.jpg" group-title="**SuperHeroes",Supergirl S03 E07
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E08" tvg-logo="http://castlempire.site:8080/images/f346dfc0038cfa0625728b87bf595fff.jpg" group-title="**SuperHeroes",Supergirl S03 E08
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E09" tvg-logo="http://castlempire.site:8080/images/7b08d7f3baec126e0c0ec9e7c946fc89.jpg" group-title="**SuperHeroes",Supergirl S03 E09
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E10" tvg-logo="http://castlempire.site:8080/images/369d667556affa3e4965c4d2ccdb3978.jpg" group-title="**SuperHeroes",Supergirl S03 E10
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E11" tvg-logo="http://castlempire.site:8080/images/402d569d9310d26e65086d01041d14c3.jpg" group-title="**SuperHeroes",Supergirl S03 E11
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E12" tvg-logo="http://castlempire.site:8080/images/895a36f37c536a8056f291a6047f12b9.jpg" group-title="**SuperHeroes",Supergirl S03 E12
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E13" tvg-logo="http://castlempire.site:8080/images/e69d08413c78aec45d4d0398ad537838.jpg" group-title="**SuperHeroes",Supergirl S03 E13
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E14" tvg-logo="http://castlempire.site:8080/images/c85ebe6d453b78ee3b38989124a543d9.jpg" group-title="**SuperHeroes",Supergirl S03 E14
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E15" tvg-logo="http://castlempire.site:8080/images/60ae2840287218929909a3cfd4b5a11e.jpg" group-title="**SuperHeroes",Supergirl S03 E15
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E16" tvg-logo="http://castlempire.site:8080/images/e28b743ae864c5591b2e59e36ff1a5e6.jpg" group-title="**SuperHeroes",Supergirl S03 E16
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E17" tvg-logo="http://castlempire.site:8080/images/11e4638c83a74b0f239a75e4fc2442aa.jpg" group-title="**SuperHeroes",Supergirl S03 E17
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E18" tvg-logo="http://castlempire.site:8080/images/d5dad4d8fd9d5ffd100ceb093eb32e5d.jpg" group-title="**SuperHeroes",Supergirl S03 E18
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E19" tvg-logo="http://castlempire.site:8080/images/ec3a28717060316a7e661c801f55e706.jpg" group-title="**SuperHeroes",Supergirl S03 E19
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E20" tvg-logo="http://castlempire.site:8080/images/26c763d83d72a11e582f1e62d8337d5b.jpg" group-title="**SuperHeroes",Supergirl S03 E20
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E21" tvg-logo="http://castlempire.site:8080/images/ec8c19bcb66e98d60aa0553aabb49ebd.jpg" group-title="**SuperHeroes",Supergirl S03 E21
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E22" tvg-logo="http://castlempire.site:8080/images/dd89492d32eebec5cf16a4a3c59868cf.jpg" group-title="**SuperHeroes",Supergirl S03 E22
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S03 E23" tvg-logo="http://castlempire.site:8080/images/0be19892b6bfd1d2821a4d7166f8f460.jpg" group-title="**SuperHeroes",Supergirl S03 E23
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E01" tvg-logo="http://castlempire.site:8080/images/e3c07dabdf86aab5a7771721a8c48945.jpg" group-title="**SuperHeroes",Supergirl S04 E01
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E02" tvg-logo="http://castlempire.site:8080/images/1a3ad2eb201f2282c39ca9cfb30b5165.jpg" group-title="**SuperHeroes",Supergirl S04 E02
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E03" tvg-logo="http://castlempire.site:8080/images/1aef9a0ee968d39f3a2895cab164a751.jpg" group-title="**SuperHeroes",Supergirl S04 E03
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E04" tvg-logo="http://castlempire.site:8080/images/cedbb9a59ff457171a57c922e221f722.jpg" group-title="**SuperHeroes",Supergirl S04 E04
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E05" tvg-logo="http://castlempire.site:8080/images/a6748ce0ac0e533414532daa6ef6421e.jpg" group-title="**SuperHeroes",Supergirl S04 E05
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E06" tvg-logo="http://castlempire.site:8080/images/e7f1e3747420fd7a4dd3878bb303f79b.jpg" group-title="**SuperHeroes",Supergirl S04 E06
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E07" tvg-logo="http://castlempire.site:8080/images/db9f9170ae6ff108ef5f469ed83f7e30.jpg" group-title="**SuperHeroes",Supergirl S04 E07
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E08" tvg-logo="http://castlempire.site:8080/images/ae6091717011d0546ac6f07e56f7e2cc.jpg" group-title="**SuperHeroes",Supergirl S04 E08
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E09" tvg-logo="http://castlempire.site:8080/images/7d59c606de54e63b51a883df8a7794fa.jpg" group-title="**SuperHeroes",Supergirl S04 E09
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E10" tvg-logo="http://castlempire.site:8080/images/839dafc344b9d7a5d050b48cbbadb706.jpg" group-title="**SuperHeroes",Supergirl S04 E10
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E11" tvg-logo="http://castlempire.site:8080/images/dca32ed25661818d927fa302ea265a92.jpg" group-title="**SuperHeroes",Supergirl S04 E11
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E12" tvg-logo="http://castlempire.site:8080/images/0992bae95dc957844a37d4398f8ddb9c.jpg" group-title="**SuperHeroes",Supergirl S04 E12
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E13" tvg-logo="http://castlempire.site:8080/images/e73ee77b909cc7d40ed940b2496397a3.jpg" group-title="**SuperHeroes",Supergirl S04 E13
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E14" tvg-logo="http://castlempire.site:8080/images/6e74c837e0c54cab28a547f48f724cb8.jpg" group-title="**SuperHeroes",Supergirl S04 E14
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E15" tvg-logo="http://castlempire.site:8080/images/afd8038f262ec80012dc1529a600a958.jpg" group-title="**SuperHeroes",Supergirl S04 E15
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E16" tvg-logo="http://castlempire.site:8080/images/dcfda2e6ccbd96c407dcf7b2cdaf75d1.jpg" group-title="**SuperHeroes",Supergirl S04 E16
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E17" tvg-logo="http://castlempire.site:8080/images/363145546e6b51b7c77b269cec9d5c86.jpg" group-title="**SuperHeroes",Supergirl S04 E17
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E18" tvg-logo="http://castlempire.site:8080/images/4e33d20afcb25ea7b0cff2d240d90b08.jpg" group-title="**SuperHeroes",Supergirl S04 E18
+http://castlempire.site:8080/series/UserTest1Octubre_00e/fTQHy3hQDtjs/175813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E19" tvg-logo="http://castlempire.site:8080/images/703480e37a1ab2a911630b541064fdb4.jpg" group-title="**SuperHeroes",Supergirl S04 E19
+http://castlempire.site:8080/series/UserTest2Octubre_00e/bqCs7jw4KQJa/175814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E20" tvg-logo="http://castlempire.site:8080/images/312f54ea0508d7126346d269c23d0f13.jpg" group-title="**SuperHeroes",Supergirl S04 E20
+http://castlempire.site:8080/series/UserTest3Octubre_00e/FskXxRJQ3Ys7/175815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E21" tvg-logo="http://castlempire.site:8080/images/dbbdf66f9e00a19e5d8f5da22f722ec2.jpg" group-title="**SuperHeroes",Supergirl S04 E21
+http://castlempire.site:8080/series/UserTest4Octubre_00e/uek4neVNWyxE/175816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supergirl S04 E22" tvg-logo="http://castlempire.site:8080/images/faddd5d4f13572f392d9bf1ab2bd9dc2.jpg" group-title="**SuperHeroes",Supergirl S04 E22
+http://castlempire.site:8080/series/UserTest5Octubre_00e/p3QcBkFxLzkZ/175817.mkv
+
+https://593apps.pro.ec/Latino-31-Marzo---NetFlix.m3u
+ salvan el universo (2020)
 http://castlempire.site:8080/movie/UserTest2Octubre_00e/bqCs7jw4KQJa/104769.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cut Off (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSVUza9xBKpAYfYfCHChKEJfn7n.jpg" group-title="*Bajas Conexiones ",Cut Off (2018)
 http://castlempire.site:8080/movie/UserTest2Octubre_00e/bqCs7jw4KQJa/105256.mp4

@@ -3,5 +3,5 @@
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="LD - FOX SPORTS 3 MX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" group-title="• DEPORTES •",LD - FOX SPORTS 3 MX
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4008
 
-#EXTINF:-1 SPN
+#EXTINF:-1 tvg-id="SPN"
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7940

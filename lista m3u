@@ -2,3 +2,69 @@
 
 
 #EXTM3U 
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
+https://593apps.pro.ec/videoIPTV593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR  | Teleamazonas FHD" tvg-logo="http://144.217.91.146/Logos/Ecuador/canela-tv-ec.png" group-title="Ecuador OP2",ECUADOR  | Teleamazonas FHD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172527
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR - LS | GOL TV OPC 2" tvg-logo="http://castlempire.site:8080/images/a563a7ad49c9524d48b32b7195a7120c.jpg" group-title="Ecuador OP2",ECUADOR - LS | GOL TV OPC 2
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172561
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Canal Uno HD" tvg-logo="http://castlempire.site:8080/images/1a43e9fbb163ffd11218212e74babb35.png" group-title="Ecuador OP2",ECUADOR | Canal Uno HD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172551
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Canal Uno SD" tvg-logo="http://castlempire.site:8080/images/1a43e9fbb163ffd11218212e74babb35.png" group-title="Ecuador OP2",ECUADOR | Canal Uno SD
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172552
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Canela TV SD" tvg-logo="http://castlempire.site:8080/images/6e91b73c7589f7a3d5ed6ea2a992c4d1.png" group-title="Ecuador OP2",ECUADOR | Canela TV SD
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172553
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | DIRECTV SPORTS FHD" tvg-logo="http://castlempire.site:8080/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="Ecuador OP2",ECUADOR | DIRECTV SPORTS FHD
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172532
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | DIRECTV SPORTS HD" tvg-logo="http://castlempire.site:8080/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="Ecuador OP2",ECUADOR | DIRECTV SPORTS HD
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172531
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | DIRECTV SPORTS SD" tvg-logo="http://castlempire.site:8080/images/8436fbf06c60417a7cad964a84cf8a03.png" group-title="Ecuador OP2",ECUADOR | DIRECTV SPORTS SD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172530
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuador TV FHD" tvg-logo="http://castlempire.site:8080/images/1381f3d55baa16aa51c762eb1bfd21f8.png" group-title="Ecuador OP2",ECUADOR | Ecuador TV FHD
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172533
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuador TV HD" tvg-logo="http://castlempire.site:8080/images/1381f3d55baa16aa51c762eb1bfd21f8.png" group-title="Ecuador OP2",ECUADOR | Ecuador TV HD
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172534
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuavisa FHD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="Ecuador OP2",ECUADOR | Ecuavisa FHD
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172536
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuavisa HD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="Ecuador OP2",ECUADOR | Ecuavisa HD
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172537
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuavisa SD" tvg-logo="http://castlempire.site:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="Ecuador OP2",ECUADOR | Ecuavisa SD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172538
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Ecuavisa Sierra" tvg-logo="http://castlempire.site:8080/images/0c89488beced7da069ba36b507f5f43d.png" group-title="Ecuador OP2",ECUADOR | Ecuavisa Sierra
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172529
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="Ecuador OP2",ECUADOR | EL CANAL DEL FUTBOL FHD (SOLO EVENTOS)
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172556
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="Ecuador OP2",ECUADOR | EL CANAL DEL FUTBOL SD (SOLO EVENTOS)
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172558
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Gamavision" tvg-logo="http://castlempire.site:8080/images/c9f0f895fb98ab9159f51fd0297e236d.png" group-title="Ecuador OP2",ECUADOR | Gamavision
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172559
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GOL TV HD" tvg-logo="http://castlempire.site:8080/images/e8c1bf5f02426f8729944f6436a7d1b9.jpg" group-title="Ecuador OP2",ECUADOR | GOL TV HD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172555
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Gol TV SD" tvg-logo="http://castlempire.site:8080/images/717c502b25f2cf218e6151c0c1940ea6.png" group-title="Ecuador OP2",ECUADOR | Gol TV SD
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172539
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | GOLTV ECUADOR HD" tvg-logo="http://castlempire.site:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="Ecuador OP2",ECUADOR | GOLTV ECUADOR HD
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172554
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Oromar TV FHD" tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="Ecuador OP2",ECUADOR | Oromar TV FHD
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172540
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Oromar TV HD" tvg-logo="http://castlempire.site:8080/images/c295d286ede5d464463cbfea23a92938.png" group-title="Ecuador OP2",ECUADOR | Oromar TV HD
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172541
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS FHD" tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="Ecuador OP2",ECUADOR | RTS FHD
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172542
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | RTS HD" tvg-logo="http://castlempire.site:8080/images/243653d8062248c551885f2a80f2f571.jpg" group-title="Ecuador OP2",ECUADOR | RTS HD
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172543
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC Television FHD" tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="Ecuador OP2",ECUADOR | TC Television FHD
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172545
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC Television HD" tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="Ecuador OP2",ECUADOR | TC Television HD
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172546
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TC Television SD" tvg-logo="http://castlempire.site:8080/images/d455e95474ff0ff09755e5b9de31cac1.png" group-title="Ecuador OP2",ECUADOR | TC Television SD
+http://castlempire.site:8080/UserTest2Octubre_00f/bqCs7jw4KQJa/172547
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Teleamazonas" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="Ecuador OP2",ECUADOR | Teleamazonas
+http://castlempire.site:8080/UserTest3Octubre_00f/FskXxRJQ3Ys7/172548
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Teleamazonas HD" tvg-logo="http://castlempire.site:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="Ecuador OP2",ECUADOR | Teleamazonas HD
+http://castlempire.site:8080/UserTest4Octubre_00f/uek4neVNWyxE/172549
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | Teleamazonas Sierra" tvg-logo="http://castlempire.site:8080/images/02722f624ad0129fa82d2552e69c3a49.png" group-title="Ecuador OP2",ECUADOR | Teleamazonas Sierra
+http://castlempire.site:8080/UserTest5Octubre_00f/p3QcBkFxLzkZ/172528
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR | TVC FHD" tvg-logo="http://castlempire.site:8080/images/62590e40a6e31d955df0b007fffafe82.jpg" group-title="Ecuador OP2",ECUADOR | TVC FHD
+http://castlempire.site:8080/UserTest1Octubre_00f/fTQHy3hQDtjs/172550

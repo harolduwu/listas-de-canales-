@@ -1,5 +1,5 @@
-EXTM3U:
+#EXTM3U:
 
-EXTINF:-1 ESPN SUR LAT 
+#EXTINF:-1 ESPN SUR LAT 
 tvg-logo=http://www.onlinetv.planetfools.com/imagenes/espn-mas.png
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7940

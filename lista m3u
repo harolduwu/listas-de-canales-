@@ -1,0 +1,1053 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF;BB;BR;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="https://i.imgur.com/jA8JD2X.png" group-title="Sport",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;IQ;OM" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="Sport",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sports-1-bh.png" group-title="Sport",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/512px-FreeSportsLogo.jpg" group-title="Sport",FreeSports (1080p) [Not 24/7]
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sport",J Sports 1 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sport",J Sports 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:0 tvg-country="AF;AL;CL;FI" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="Sport",J Sports 3 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:0 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sport",J Sports 4 (720p) [Not 24/7]
+http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="Sport",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="Sport",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png" group-title="Sport",MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="AF;BB;BR;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="" group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Mav Tv Motorsports Network
+https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;HU;IQ;OM;GB" tvg-logo="https://i.imgur.com/RPJiolQ.png" group-title="Sport",Midpen Media Center Youth Education and Sports Channel 28 (720p)
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:0 tvg-country="AF;AL;DZ;BH;BB;KH;GE;HK;IS;IL;OM" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="Sport",Nittele G+ Sports & News (540p)
+https://cdnv148.cloudrsst.com/jptv/japan_tv_G_540/playlist.m3u8
+#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;HU;IQ;OM;GB" tvg-logo="" group-title="Sport",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="AF;BB;BR;BG;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="" group-title="Sport",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;DE" tvg-logo="" group-title="Sport",TVB Finance and Sport Channel (720p)
+https://tvp22.sky4k.top/index2.php
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;BH;BR;BG;CA;CL;DK;FR" tvg-logo="https://i.imgur.com/RlFYvKf.png" group-title="Sport",TVB Finance and Sport Channel (Cantonese Subtitles) (720p)
+http://9.zhxinda.xyz/newss.php?id=2
+#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;SE;GB;VN" tvg-logo="" group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 4
+http://cineapp.org:8000/Fernando/Fernando/9678
+#EXTINF:0 tvg-country="DZ;AM;BH;BR;BG;CA;CL;EG;DE;MX;RS" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sport",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",Sky Sport Austria 2 FHD
+http://ziyadiptv.net:80/05519648407TT/05519648407/21238
+#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",Sky Sport Austria 3 FHD
+http://ziyadiptv.net:80/05519648407TT/05519648407/21239
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:0 tvg-country="BH;IS" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="Sport",KSA Sports 1 (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports1
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5270
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD new (FR)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/61706
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD+
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/64903
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5271
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 HD new (FR)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/61705
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/39715
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3 HD (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55130
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 1 (FR)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43352
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 1 (NL)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43351
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 1 (NL) (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55124
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 2 (FR)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43354
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 2 (FR) (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55127
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 3 (FR)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43356
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 3 (NL)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43355
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",ELEVENSPORT 3 (NL) (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55128
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (FR)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135979
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sport 1 (NL)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135978
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports2FR.be.png" group-title="Sport",Eleven Sport 2 (BE)
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135980
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135975
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135976
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/ElevenSports1NL.be.png" group-title="Sport",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135977
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43361
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43362
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43363
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",PLAY SPORTS 4 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51536
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51531
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43370
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 1 HD.
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5267
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 2 FHD.
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51532
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5268
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 2 HD.
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43371
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/5269
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 1 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43372
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 1 FHD (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55119
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 2 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/43373
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 2 FHD (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55120
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 3 FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/51533
+#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",VOO SPORT WORLD 3 FHD (backup)
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/55121
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1nl.be.png" group-title="Sport",Voo Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/73449
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135972
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135973
+#EXTINF:0 tvg-country="BE" tvg-logo="http://worldiptv.xyz/chlogos/VOOSport1fr.be.png" group-title="Sport",Voo Sport World 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/135974
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="Sport",Band Sports
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport",ESPN 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport",ESPN Extra HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
+#EXTINF:0 tvg-country="BR" tvg-logo="http://worldiptv.xyz/chlogos/ESPN.ar.png" group-title="Sport",Espn HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
+#EXTINF:0 tvg-country="BR" tvg-logo="http://worldiptv.xyz/chlogos/eurosport.jpg" group-title="Sport",Eurosport1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.kindpng.com/picc/m/748-7484701_fox-sports-2-logo-png-fox-sports-2.png" group-title="Sport",Fox Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159602
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="Sport",Sportv  3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="Sport",Sportv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="Sport",Sportv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport HD
+http://78.83.191.18:8000/play/a076
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport
+http://78.83.191.18:8000/play/a05y
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
+http://78.83.191.18:8000/play/a04b
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Nova Sport
+http://78.83.191.18:8000/play/a04a
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sport.canada.ca.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Sport",CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Ginx eSports TV CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ginx.esports.tv.canada.us.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel CA
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/golf.channel.canada.ca.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Golf Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFu9JLaACu6Ff0V5_EuPetM/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",TVA Sports HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN Sports HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/41976
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT4SportHD.cz.png" group-title="Sport",CT4 Sport FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115460
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/GolfChannel.cz.png" group-title="Sport",Golf Channel
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115471
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaSport1HD.cz.png" group-title="Sport",Nova Sport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115489
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/sport1HD.cz.png" group-title="Sport",Sport 1 FHD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115502
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Sport5.cz.png" group-title="Sport",Sport 5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115503
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Eurosport 2 xtra
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport2xtra.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.1.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.2.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.3.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.4.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 5
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.5.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.6.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 7
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.7.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 8
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.8.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",My Sport 9 CH
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/my.sport.9.ch.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/BmJaDT3.jpg" group-title="Sport",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.1.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.2.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport Austria
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.austria.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport Bundesliga 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.bundesliga.1.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.news.de.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sport1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport1.de.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Sport",ERT Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ert.sport.gr.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",TVRI Sport HD (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",EUROSPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53330
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",EUROSPORT2
+http://cineapp.org:8000/Fernando/Fernando/5598
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Sport",Eurosport 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159559
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT 2 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54228
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/54230
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT+
+http://cineapp.org:8000/Fernando/Fernando/1276
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1280px-Rai_Sport_-_Logo_2017.svg.png" group-title="Sport",Rai Sport
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159562
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT 24 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53320
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT MOTO GP HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53324
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1200px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="Sport",Sky Sport 24
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159565
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport 24
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport24.it.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Collection
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.collection.it.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Collection FHD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/53338
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sport",Sky Sport F1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159567
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Football IT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.football.it.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Serie A IT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.serie.a.it.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Uno
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.uno.it.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1200px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sport",Sky Sport Uno
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/KDHJryj.png" group-title="Sport",DUBAI SPORTS 2 (1920×1080),SPORT : Dubai Sports 2,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 1
+http://red.ipfox.org:8080/osama2022/osama2023/49190
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 1 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36908
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 2
+http://red.ipfox.org:8080/osama2022/osama2023/49189
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 3
+http://red.ipfox.org:8080/osama2022/osama2023/49188
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 3 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36910
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 4
+http://red.ipfox.org:8080/osama2022/osama2023/49187
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 6 HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36913
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport1.nl.png" group-title="Sport",EUROSPORT 1
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71185
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.nl.png" group-title="Sport",EUROSPORT 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71186
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Eurosport 1 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49179
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49178
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports1.nl.png" group-title="Sport",FOX SPORTS 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71215
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBPs4ao6uxmTHJLUCZAarhU/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports2.nl.png" group-title="Sport",FOX SPORTS 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71218
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports3.nl.png" group-title="Sport",FOX SPORTS 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71221
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 4
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/FoxSports4.nl.png" group-title="Sport",FOX SPORTS 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71224
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 5
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 6
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="http://worldiptv.xyz/chlogos/ZiggoSportExtra1.nl.png" group-title="Sport",Sport 1 Extra
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71345
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB69f4QyHFph5a7a4LDQjoo/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT EXTRA 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPs0Oi9Z2w2NmialkDwgMJU/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT GOLF HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36904
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT RACING
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJUlNamtn5WKZZ818zsQnco/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT RACING HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36905
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT SELECT
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDwRJjMLV-zhSj3IXw3V8W0/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT VOETBAL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHRZDFV5DUReajDE2o5rU7U/ts
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ZIGGO SPORT VOETBAL HD
+http://obsfullhd.tv:25461/Sonixex/PkhE2LfUBn3L/36903
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Docu HD
+http://red.ipfox.org:8080/osama2022/osama2023/49181
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Golf
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ziggo.sport.golf.nl.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Golf HD
+http://red.ipfox.org:8080/osama2022/osama2023/49183
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport HD
+http://red.ipfox.org:8080/osama2022/osama2023/49186
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Racing
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ziggo.sport.racing.nl.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Racing HD
+http://red.ipfox.org:8080/osama2022/osama2023/49182
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Select
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ziggo.sport.select.nl.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Select HD
+http://red.ipfox.org:8080/osama2022/osama2023/49185
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Tennis HD
+http://red.ipfox.org:8080/osama2022/osama2023/49180
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Voetbal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ziggo.sport.voetbal.nl.m3u8
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",Ziggo Sport Voetbal HD
+http://red.ipfox.org:8080/osama2022/osama2023/49184
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",Eurosport 1 DK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.dk.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",Eurosport 2 DK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.dk.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",MTV Sport 1 FI
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.sport.1.fi.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV 2 Sportskanalen NO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv2.sport.1.no.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV2 Sport X DK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv2.sport.x.dk.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV3 Sport DK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv3sport.dk.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV3 Sport SE
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv3.sport.se.m3u8
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",Viasat Golf DK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/viasat.golf.dk.m3u8
+#EXTINF:0 tvg-country="OM" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sport",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/yaWTUE6.png" group-title="Sport",Oman Sport,SPORT : Oman Sports,SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",CANAL+ Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",CANAL+ Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.2.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eleven Sports 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",EuroSport 1 HD
+http://cineapp.org:8000/Fernando/Fernando/79437
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",EuroSport 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/79439
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Eurosport 1
+http://cineapp.org:8000/Fernando/Fernando/79438
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/polsat.sport.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport FHD
+http://cineapp.org:8000/Fernando/Fernando/79451
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SArlcfOavy11rlBMGfAY9so/ts
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport News
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/polsat.sport.news.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport Premium 1 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBINpIjbypBpXHkjRDhs7Ks/ts
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport Premium 1 SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJC4w-E6yzRvHAcO8vFP5_c/ts
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport Premium 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKVyWQaJWg2L05-KiEvcpaBpryoPyRhMRDVaUO3IzIEV/ts
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SportKlub
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sportklub.pl.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDo2IPQ4jMm0MCRJ7W1jfgKFSOwTcGlln45IzEmwdsLf/ts
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",TVP Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvp.sport.pl.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT1
+http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT3
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT4
+http://cineapp.org:8000/Fernando/Fernando/7454
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="Sport",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Sport",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.3.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.4.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 5 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 6 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eurosport 1
+http://red.ipfox.org:8080/osama2022/osama2023/49360
+#EXTINF:0 tvg-country="PT" tvg-logo="http://worldiptv.xyz/chlogos/british_eurosport_1.png" group-title="Sport",Eurosport 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159591
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eurosport 2
+http://red.ipfox.org:8080/osama2022/osama2023/49359
+#EXTINF:0 tvg-country="PT" tvg-logo="http://worldiptv.xyz/chlogos/british_eurosport_2.png" group-title="Sport",Eurosport 2
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Fight Sports
+http://red.ipfox.org:8080/osama2022/osama2023/49355
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",NBA TV
+http://red.ipfox.org:8080/osama2022/osama2023/49356
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28538
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1 SD
+http://cineapp.org:8000/Fernando/Fernando/5151
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORTING TV HD
+http://cineapp.org:8000/Fernando/Fernando/8074
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV + HD
+http://red.ipfox.org:8080/osama2022/osama2023/49374
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV Plus PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV2 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49373
+#EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-n9K7acPmDMo/XOXfES67NMI/AAAAAAAAA0E/KXGHwm0UH48sFPQUf8NBYv90yNdeHw39wCLcBGAs/w1200-h630-p-k-no-nu/SPORTV2.png" group-title="Sport",Sport Tv 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.pinimg.com/originals/9f/82/f0/9f82f0a2a590bf589bb97c5c03588ac5.png" group-title="Sport",Sport Tv 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png" group-title="Sport",Sport Tv 4
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
+#EXTINF:0 tvg-country="PT" tvg-logo="https://4.bp.blogspot.com/-1bfy5vanEGY/WsDjF2WOC_I/AAAAAAAAAE8/DpClCnT7A-cVOo9kPN0haU1w6fPGiD7wQCEwYBhgL/s1600/sporttv5.png" group-title="Sport",Sport Tv 5
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="Sport",Sport Tv HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sporting TV HD
+http://red.ipfox.org:8080/osama2022/osama2023/49361
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",X Sport
+http://red.ipfox.org:8080/osama2022/osama2023/49203
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.1.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.2.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.3.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",DIGI Sport 4
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sport.4.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Extreme Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/extreme.sports.channel.ro.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Look Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/look.sport.ro.m3u8
+#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport;Undefined",Red Bull TV,Red Bull TV HD,Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sport HD (EN)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports LaLiga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://ziyadiptv.net:80/05519648407TT/05519648407/59950
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Esport 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPdMiXJVN5k_SwJ8gLzlMExzyUqfamTUqOf-2PlVmvIm/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EuroSport 1 HD P
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPp3fCVAuYo-5VxUytsShq4TBjACgC9jeer_bttFPU7D/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFSPB1aJTVPogcnPkP6WEw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2 HD OPC2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGR20xyLQTRdSIz3vbl9-xOPzn0SnQ8KOixTq0qb8HPl/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFw2zf7q3SMphJRKAfsbPhc/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4ovTfN9SOugDCzUSqlqJA/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAcEdapcJLbzepCRw4n_2UM/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 7 (LIVEEVEENT)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTs1-3Pca0VU3fTQwGHhAc/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 8
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA_Ye6MOfNX5qA4RME0A1dU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES 1 FULL HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMRZlqnWwo9FPomHv2H_Oek/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK-IF5LGkdlRx7_wJLNBru1SYDsZViSOtXU0fqxgpE9/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59917
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR GOLF  HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIuNgfC32KdEe3gkHox1pUQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Deportes
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Golf
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.golf.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Multideportes
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBgi2py4oAOS1kTgwrSZtWBtARQVsQqjbrp_BTR02Ozz/ts
+
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#0
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/0.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#VAMOS HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDzWy16i2O9k5Ih2mLRkYtQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#Vamos
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vamos.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",+Real Madrid TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCIUVMCYpc0_u63jC2K9NKc/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",24 Horas
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/24.horas.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",7 Noticias (1080p)
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AMC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/amc.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ANDALUCIA TV HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59897
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ANTENA 3 HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59872
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",ARAGON TV HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59898
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AXN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AXN White
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.white.es.m3u8
+#EXTINF:0 tvg-country="MX;ES" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Undefined",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Antena 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.3.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BARCA TV
+http://ziyadiptv.net:80/05519648407TT/05519648407/51286
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BE MAD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/be.mad.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BE MAD FHD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59902
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BLAZE
+http://ziyadiptv.net:80/05519648407TT/05519648407/59903
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BabyTV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/babytv.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Barca TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKSckXC6pg6ww9-mY-WfBZ4/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Barca TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/barca.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sport HD (EN)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Bein Sports LaLiga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CALLE 13 HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59876
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CANAL ODISEA
+http://ziyadiptv.net:80/05519648407TT/05519648407/59888
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CAZA Y PESCA HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59889
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",COMEDY CENTRAL HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59890
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",COSMO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cosmo.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",COSMO HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59891
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",CUATRO
+http://ziyadiptv.net:80/05519648407TT/05519648407/59873
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Calle 13
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/calle.13.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal 2000 La Solana (720p)
+http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Undefined",Canal 25 Barbastro
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="Undefined",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal Decasa
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.decasa.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local;Undefined",Canal Málaga,Canal M�laga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/sEN6VcY.png" group-title="SPAIN",Canal Sur Andalucía (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/sEN6VcY.png" group-title="SPAIN",Canal Sur Andalucía (720p)
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CanelaTV_553x553.png?raw=true" group-title="Undefined",Canela TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local;Undefined",Channel 20,TVG Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Cuatro
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cuatro.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DISCOVERY CHANNEL HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59940
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DISNEY XD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59934
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DIVINITY
+http://ziyadiptv.net:80/05519648407TT/05519648407/59879
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DKISS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dkiss.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DMAX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dmax.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Discovery
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",EL TORO TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGQi_evsx-L1uk146VIdAsw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EUROSPORT 2
+http://ziyadiptv.net:80/05519648407TT/05519648407/59950
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",EXTREMADURA TV
+http://ziyadiptv.net:80/05519648407TT/05519648407/59963
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",El Futuro en tu mano (720p)
+https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Energy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/energy.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Esport 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPdMiXJVN5k_SwJ8gLzlMExzyUqfamTUqOf-2PlVmvIm/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",EuroSport 1 HD P
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPp3fCVAuYo-5VxUytsShq4TBjACgC9jeer_bttFPU7D/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFSPB1aJTVPogcnPkP6WEw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2 HD OPC2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGR20xyLQTRdSIz3vbl9-xOPzn0SnQ8KOixTq0qb8HPl/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FDF Telecinco
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fdf.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 01 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFpIqZ26MSF7eI-2OGYIb8AtsqH95jsLvO3y6UL0k8xY/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 02 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP3TWQbEiZ283JpGRSN3eVM5-ev8MneFHLn1zcaeDSI7/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 03 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFMEypJIPsYXi89meeGkWecOBLgzVPau4OyCLjCd_tK8/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 04 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLZqzWkDHbNyBvORc0RbwGDlAeMTu6AbuX5LIah9GvcH/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 05 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGwVV-Qq9N2m47PipT3q5VqBH1MGgCPdlWgjXjMiqZMK/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 06 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG5FtRhOPATM4RFYrdu5K7CqOhcrWZ9uqbLOmV-w_sOE/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 07 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJDXzeuISOUmiTEJNKdwku-MnDZ-M-e1MSXnr-4H0_4A/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 08 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCHWr4UwmVts6uA77P6OdZe08ApQIo0S6mu-b99LDNwl/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 09 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEL1l4lu-Oqlrk-BEI50BolyHqB8JtW2tj6LBGh3pyCH/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 10 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIRBmhIHr9dbzx2l1LpSYA50qQfcvBfy32qA06vWOLze/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 11 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCB-v9HZnJwBXn_alrcSkxixs_mpt-qBwcZtnHJOsZNk/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 12 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD-Ln0sV9ak5pgWhLGIW4F2gkFxnL0Km-bMIbt_6tZrI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 13 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SONvL-KHqEMG717X8xX6bp5uMXYlLAQxuZdMfXr5Mu-O/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 14 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNxU30V7gtAUgKsJ_2kzEijpLvBLCcSzEKTS1aLe50ec/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 15 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAgoUE1ZBx3Hf3f7Ekr7xiRqCFcTIJojZfnh8N5-xgBb/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 15 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKP4RlCMTBL9S2vAtUhT0BrjMkUIQHEoXxitdUR2E3ZB/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 16 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkalpOgGpvcJ-IGt-Alh1egGJcjpg72qCM1wDdXDgHF/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 16 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIsnxcmxQkKw3tDeXmsOHLHThRqvmgEnxZLcBGpNU7dM/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 17 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE-NqejOBHvsvoaAvbJWVAkq3EfVoNKe7gLLB5X1KwhI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 17 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SARBHgORSSOkNtzMtcGoL-PhF7UoZoAg-LKMkctKKZPR/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 18 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMyp6EmdDXkaSMwUkLmfjZv_PSMvRvaVm2sCENQ3Rt6h/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 18 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJdeu8Qc9efTaKKHtmW-T6rQWGlmCoiwIqM30XHLextY/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 19 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNltk04Wl3G218Apa6G54H3Q1MUE1zICQNbml6PMbUQZ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 19 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMtKMKMtwu4sfkJJQjg2wTSco_k8T9nIjkgE2cxlFkNC/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 20 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNz-6OxawnVLJCHePHAv1lf8HSVwhPHlIjBZcAdbZfHM/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 20 FHD EN VIVO SOLO PARTIDO
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKBFt92Buq8J3C-_-0OqkmAXHpcFMKLi95ipcTikjbI6/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 21 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL9yVy2RYn9CY54MYF8oqggBs-3Ato5ZrDrZ6H__hoGV/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 22 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNiBDuOSRpculx4ed-4wV8EKMYVQhGBHqHtp8tkHOtb2/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 23 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SABwdee7V6l6uYnnyFgrVtcxNsAPaS0cNNZCjSpoVoqz/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 24 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL8N-oZbpU0tUr0wG7k9m3u8rNUEpQ-1n40ty4I5dBVU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOOTTERS 25 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBrgyOSs-6o8K_AQg2clw6jGeSG2a7VcN0QI_tE015jB/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOX Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",GOL TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJBTQsQGdY_XZQh1kgT34SM/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General;Undefined",Galicia TV América,Televisión de Galicia América
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Gol
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/gol.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Historia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/historia.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 1 HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59870
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA 2 HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59871
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA LIGA TV BAR 1 [LIVE-EVENT]
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIHRNqQhaswChh4ggcRz_z4/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA Liga FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIeTrchbI6q2kI9DZ_1qWJI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LA SEXTA
+http://ziyadiptv.net:80/05519648407TT/05519648407/59881
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LALIGA 1 FHD (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4wBTErVtiV14IQycQOGyU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LALIGA 1 SD (SÓLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFlf0YqlA9r38X_jbmo4POU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LALIGA 3 SD (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGTiejKzO1rZC8tX8fPb-20/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LALIGA 4 FHD (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKgAy6oFYqOXJM9EGKA5q-Y/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LALIGA 4 HD (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP2rAsY1ZxsNDfoLVwzGll4/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LIGA TV HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59960
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 (720p) [Geo-blocked]
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1 Catalunya (576p) [Geo-blocked]
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="SPAIN",La 2 (1080p)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LaLiga HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFM4zjgCb9CVrgIggFMSP8E/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",LaLigaTV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLPv5IJGGYI9P-UO-_q-2cI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Liga tv bar
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNxBul89kek-f-paxZr0tO4/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFw2zf7q3SMphJRKAfsbPhc/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4ovTfN9SOugDCzUSqlqJA/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAcEdapcJLbzepCRw4n_2UM/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 7 (LIVEEVEENT)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTs1-3Pca0VU3fTQwGHhAc/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",M. DEPORTES 8
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA_Ye6MOfNX5qA4RME0A1dU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. FORMULA 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMqcRAAjkxjdNT1y3buYxZY/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. FORMULA 1 HD (CONEXION BAJA)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKwyM8S-JhcDZZOhK1sXITs/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LA LIGA DE CAMPEONES (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SADRhuqNWDMXIrx-FskMNCI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 1 SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFImPuN07sqR277yXNciLLw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 2 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKFzPpbHX3Ga0K2Y_FEutWs/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.3.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. Liga de Campeones
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.liga.de.campeones.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. Liga de Campeones 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.liga.de.campeones.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. Liga de Campeones 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.liga.de.campeones.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MEGA
+http://ziyadiptv.net:80/05519648407TT/05519648407/59914
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES 1 FULL HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMRZlqnWwo9FPomHv2H_Oek/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK-IF5LGkdlRx7_wJLNBru1SYDsZViSOtXU0fqxgpE9/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR DEPORTES HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59917
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR DRAMA HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59919
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR F1 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI8GdaZwG2r4aDTQ_7b9amI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",MOVISTAR GOLF  HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIuNgfC32KdEe3gkHox1pUQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCgXK3Zn73y4bdoEKw0eq8U/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LA LIGA HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG3Yqug0x9DRWRGFOm5AQcQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LALIGA 1 (SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBAOOcv3SGAXcZ1r5gAtK_I/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LALIGA 2 (Solo eventos)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM9Nh5GvmgMBH9xyd1yIgws/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFjOr1EAC41mLghIBfpYJMY/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP8opHD44Ke7Jn7zmpkIdpo/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR SERIES 2 HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59920
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR SERIES HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59893
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",MOVISTAR TOROS HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59921
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Mega
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mega.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Moviestar Estrenos 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.estrenos.2.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Accion
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.accion.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Comedia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.comedia.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar DCine
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.dcine.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Deportes
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.deportes.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Estrenos
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.estrenos.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Formula 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.formula.1.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Formula 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB5Cd-nHLCULj42rFk9Zu3M/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Golf
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.golf.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar La Liga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAPyJNG-6MgceDO3L8aVgWw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar LaLiga 4 SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLVvzRZ_6i1X6uPaC5Ray4A/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar LaLiga HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMJ6jlrvR1lPeuVppe_XkUQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Laliga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBr29GbPP1Yk0fTUbTURBGg/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Liga De Campeones FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHLFodEcZ6VvHx05St5pR6g/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Liga De Campeones HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP8jf9GgG-rE5_3CLpufJbo/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Moto GP HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEFyq8TKgeNbQOmXE49ut-w/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Series
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.series.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Multideportes
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBgi2py4oAOS1kTgwrSZtWBtARQVsQqjbrp_BTR02Ozz/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",NICKLEDEON HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59936
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",NatGeo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Neox
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/neox.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Odisea
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/odisea.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",PARAMOUNT CHANNEL
+http://ziyadiptv.net:80/05519648407TT/05519648407/59913
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Paramount
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://graph.facebook.com/1121106071333048/picture?width=320&height=320" group-title="SPAIN",Radio Rutas del Perú (360p) [Not 24/7]
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Real Madrid
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/real.madrid.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Real Madrid TV FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOHsndJ_fE-2G5fpBlM0UlI/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="Undefined",Sophia TV
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CN;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IS;IN;ID;IR;IQ;IL;IT;JP;KW;MY;MX;MN;MA;NL;NZ;NO;OM;PK;PS;PA;PE;PH;PL;PT;QA;RO;SA;RS;SG;SK;ES;SD;SE;CH;TH;TR;UA;AE;GB;US;VN;YE" tvg-logo="" group-title="Undefined;FRANCE;ITALY;MEXICO;PAKISTAN;SPAIN;CHINA",Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Syfy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TCM
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tcm.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SE7jCKk7gCHNHVrSI3l9mLCLeVe6xHEIl678WfJ31yZ5/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE HD
+http://ziyadiptv.net:80/05519648407TT/05519648407/59885
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEDEPORTE HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCMn6TJARwAy1K2spIFPFVo/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TELEMADRID FHD
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TEN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ten.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TNT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TV3 CAT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tv3cat.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/1192795318749945858/o-jIBTK-_400x400.jpg" group-title="SPAIN",TV5 Limares (720p) [Not 24/7]
+https://unlimited6-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Undefined",TVG
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:0 tvg-country="ES;US" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="General;Undefined",Televisión de Galicia Europa,TVG,TVG (Opt-1)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Undefined",TVG América
+https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Undefined",TVG América
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local;Undefined",TVG Cultural
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Cultural
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Undefined",TVG Evento 1
+http://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Undefined",TVG Evento 1
+https://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Infantil
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES;US" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Local;Undefined",TVG Momento,TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Local",TVG Momento
+https://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Local",TVG Momento
+http://momentog-crtvg.flumotion.com:80/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Musigal
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local;Undefined",TVG Musigal
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="Local",TeleSafor
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="Local",TeleSafor
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="Local",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Telecinco
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telecinco.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Teledeporte
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/teledeporte.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Telemadrid
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telemadrid.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Undefined",Televisio Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",Televisión de Galicia América
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="General",Televisión de Galicia Europa
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Toros TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/toros.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/3N90uxs.png" group-title="Undefined",Trece TV
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" group-title="SPAIN",Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",U-BEAT FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPSjRPn5YJrOW-bxx8KrJjWwWlBaDK-CieVI0YfYhtvi/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",VAMOS
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL54p0jbxI0lpE0d80AedoU/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Vamos FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKD33C9HOpbH1Ijc_l1fxJA/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Vamos HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHwoh1FhB1PRaZNF8Gdu6dw/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",beINSport LaLiga HD  ( SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNVWlelcWH-FDud5QTfwMDQ/ts
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",laSexta
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lasexta.es.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",teve.cat (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+  

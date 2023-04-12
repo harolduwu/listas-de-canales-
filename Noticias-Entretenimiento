@@ -1,46 +1,53 @@
 #EXTM3U: 
-
-#EXTINF:-1 tvg-id="" tvg-name="Canela TV HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/canelatv.png" group-title="Ecuador",Canela TV HD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304380
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuadortv.png" group-title="Ecuador",Ecuador TV SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304381
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuadortv.png" group-title="Ecuador",Ecuador TV. FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304382
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304383
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304384
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Int. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/ecuavisa.png" group-title="Ecuador",Ecuavisa Int. HD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304385
-#EXTINF:-1 tvg-id="" tvg-name="El Canal Del Futbol FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304386
-#EXTINF:-1 tvg-id="" tvg-name="El Canal Del Futbol. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/elcanaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol. FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304387
-#EXTINF:-1 tvg-id="" tvg-name="Gamavision SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/gamavision.png" group-title="Ecuador",Gamavision SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304388
-#EXTINF:-1 tvg-id="" tvg-name="Gamavision. SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/gamavision.png" group-title="Ecuador",Gamavision. SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304389
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="Ecuador",Gol TV SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304390
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV. SD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/goltv.png" group-title="Ecuador",Gol TV. SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304391
-#EXTINF:-1 tvg-id="" tvg-name="Oromar FHD  (EC)" tvg-logo="" group-title="Ecuador",Oromar FHD  (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304392
-#EXTINF:-1 tvg-id="" tvg-name="Oromar. SD (EC)" tvg-logo="" group-title="Ecuador",Oromar. SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304393
-#EXTINF:-1 tvg-id="" tvg-name="Rts. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/rts.png" group-title="Ecuador",Rts. HD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304395
-#EXTINF:-1 tvg-id="" tvg-name="TC Television FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/tctelevision.png" group-title="Ecuador",TC Television FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304396
-#EXTINF:-1 tvg-id="" tvg-name="TC Television. FHD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/tctelevision.png" group-title="Ecuador",TC Television. FHD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304397
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/teleamazonas.png" group-title="Ecuador",Teleamazonas HD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304398
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas. HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/teleamazonas.png" group-title="Ecuador",Teleamazonas. HD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304399
-#EXTINF:-1 tvg-id="" tvg-name="Telerama SD (EC)" tvg-logo="" group-title="Ecuador",Telerama SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304400
-#EXTINF:-1 tvg-id="" tvg-name="Telerama. SD (EC)" tvg-logo="" group-title="Ecuador",Telerama. SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304401
-#EXTINF:-1 tvg-id="" tvg-name="Asomavisión SD (EC)" tvg-logo="" group-title="Ecuador",Asomavisión SD (EC)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304404
+#EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL FHD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL FHD
+http://50.7.66.234:8080/Paul19/Paul19/1092640
+#EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
+http://50.7.66.234:8080/Paul19/Paul19/1086208
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="EC - DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",EC - DIRECTV SPORTS FHD
+http://50.7.66.234:8080/Paul19/Paul19/53462
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD
+http://50.7.66.234:8080/Paul19/Paul19/23239
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="EC - DIRECTV SPORTS 2 HD" tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR",EC - DIRECTV SPORTS 2 HD
+http://50.7.66.234:8080/Paul19/Paul19/53489
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="EC - DIRECTV SPORTS + FHD" tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR",EC - DIRECTV SPORTS + FHD
+http://50.7.66.234:8080/Paul19/Paul19/53490
+#EXTINF:-1 tvg-id="" tvg-name="EC - PPV ECUADOR" tvg-logo="" group-title="ECUADOR",EC - PPV ECUADOR
+http://50.7.66.234:8080/Paul19/Paul19/1118922
+#EXTINF:-1 tvg-id="" tvg-name="EC - STAR + (SOLO EVENTOS)" tvg-logo="data:image/jpeg;base64,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" group-title="ECUADOR",EC - STAR + (SOLO EVENTOS)
+http://50.7.66.234:8080/Paul19/Paul19/1118924
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV
+http://50.7.66.234:8080/Paul19/Paul19/7471
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",ECU - GOL TV FHD
+http://50.7.66.234:8080/Paul19/Paul19/53381
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="EC - GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",EC - GOL TV HD
+http://50.7.66.234:8080/Paul19/Paul19/53491
+#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",ECU - GOL TV SD
+http://50.7.66.234:8080/Paul19/Paul19/25753
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR",ECU - CANAL UNO FHD
+http://50.7.66.234:8080/Paul19/Paul19/8083
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR",ECU - CANAL UNO SD
+http://50.7.66.234:8080/Paul19/Paul19/53452
+#EXTINF:-1 tvg-id="" tvg-name="ECU - ECUADOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR",ECU - ECUADOR TV HD
+http://50.7.66.234:8080/Paul19/Paul19/53453
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA FHD
+http://50.7.66.234:8080/Paul19/Paul19/53455
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA SD
+http://50.7.66.234:8080/Paul19/Paul19/8084
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMAVISIÓN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",ECU - GAMAVISIÓN FHD
+http://50.7.66.234:8080/Paul19/Paul19/53456
+#EXTINF:-1 tvg-id="" tvg-name="EC - OROMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQztdIRrAH0V40KqAq-rK-xCDCnbuSF4MqrhqKHODzn2JHrBH8zCVruv9rz2UXX7szS8&usqp=CAU" group-title="ECUADOR",EC - OROMAR TV
+http://50.7.66.234:8080/Paul19/Paul19/1155849
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCR7WWqtZjSJi9xe5jVGJNJE-Ml3fvSw3bayLGNInmqpfUicAQk1cXab1i30ckTTzbDjw&usqp=CAU" group-title="ECUADOR",ECU - RTS
+http://50.7.66.234:8080/Paul19/Paul19/7534
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS SD" tvg-logo="https://pbs.twimg.com/profile_images/1127978058504339461/lbChzuL4_400x400.png" group-title="ECUADOR",ECU - RTS SD
+http://50.7.66.234:8080/Paul19/Paul19/53457
+#EXTINF:-1 tvg-id="" tvg-name="EC - TVC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR",EC - TVC FHD
+http://50.7.66.234:8080/Paul19/Paul19/53460
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION FHD" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION FHD
+http://50.7.66.234:8080/Paul19/Paul19/53458
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION HD
+http://50.7.66.234:8080/Paul19/Paul19/7533
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS FHD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS FHD
+http://50.7.66.234:8080/Paul19/Paul19/7532
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="EC - TELEAMAZONAS SD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",EC - TELEAMAZONAS SD
+http://50.7.66.234:8080/Paul19/Paul19/53459

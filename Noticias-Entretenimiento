@@ -1,85 +1,429 @@
-#EXTINF:-1 xui-id="543" tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS" tvg-logo="http://play.flamaplus.tv:80/images/a68992da82fe4c4b645f8e82ab2c6fd0.png" group-title="NACIONALES ECUADOR",EC| TELEAMAZONAS
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJl0RHClpgVP9JcCZFiCHMNo/ts
-#EXTINF:-1 xui-id="546" tvg-id="ecuavisa.ec" tvg-name="EC| TELEAMAZONAS QUITO FHD" tvg-logo="http://play.flamaplus.tv:80/images/a68992da82fe4c4b645f8e82ab2c6fd0.png" group-title="NACIONALES ECUADOR",EC| TELEAMAZONAS QUITO FHD
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhM5aGY050icztm32Rh0874/ts
-#EXTINF:-1 xui-id="547" tvg-id="tctelevision.ec" tvg-name="EC| TC TELEVISION" tvg-logo="http://play.flamaplus.tv:80/images/2607bc9b4566803b92d4a14bdc7ea1bc.png" group-title="NACIONALES ECUADOR",EC| TC TELEVISION
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhr-_wXbRol4fj9rOeK2-pw/ts
-#EXTINF:-1 xui-id="548" tvg-id="" tvg-name="EC| GAMAVISION" tvg-logo="http://play.flamaplus.tv:80/images/46024317d037d6760eb790efa2a3cd6c.png" group-title="NACIONALES ECUADOR",EC| GAMAVISION
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJlnCCev69cUUqOoYsAn0bZM/ts
-#EXTINF:-1 xui-id="549" tvg-id="" tvg-name="EC| RTS" tvg-logo="http://play.flamaplus.tv:80/images/d8b62d4f6a90f0376126820596d68676.png" group-title="NACIONALES ECUADOR",EC| RTS
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJmHjgbqLVndUYWKvcmyQXfI/ts
-#EXTINF:-1 xui-id="551" tvg-id="oromar.ec" tvg-name="EC| OROMAR TV" tvg-logo="http://play.flamaplus.tv:80/images/00edb44774532e7bf90e1151aef93807.png" group-title="NACIONALES ECUADOR",EC| OROMAR TV
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJha4elwNKwSYM2wJBBbgME4/ts
-#EXTINF:-1 xui-id="552" tvg-id="ecuadortv.ec" tvg-name="EC| ECUADOR  TV" tvg-logo="http://play.flamaplus.tv:80/images/58971cf24dc32eaf3fd88151614257c4.png" group-title="NACIONALES ECUADOR",EC| ECUADOR  TV
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtcUdA_Gb6_612fnzIp-IDg/ts
-#EXTINF:-1 xui-id="556" tvg-id="" tvg-name="EC| TVC" tvg-logo="http://play.flamaplus.tv:80/images/d468992adab393e8df8a601b98ee235c.png" group-title="NACIONALES ECUADOR",EC| TVC
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtk2NO6jQFiYRHH8tc5n1z0/ts
-#EXTINF:-1 xui-id="558" tvg-id="" tvg-name="EC| CANAL DEL FUTBOL" tvg-logo="http://play.flamaplus.tv:80/images/d446fc28ebcd785bb2b2f102ef733b1b.png" group-title="PACK DEPORTIVO ECUADOR",EC| CANAL DEL FUTBOL
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJn16-ikqNbW7dRu_U6snSZA/ts
-#EXTINF:-1 xui-id="559" tvg-id="goltv.ec" tvg-name="EC| GOL TV" tvg-logo="http://play.flamaplus.tv:80/images/83c95710e9422430108605a1b1206233.png" group-title="PACK DEPORTIVO ECUADOR",EC| GOL TV
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJuIlup5HAwva5Hq2RncIwQE/ts
-#EXTINF:-1 xui-id="560" tvg-id="goltv.ec" tvg-name="EC| GOL TV HD" tvg-logo="http://play.flamaplus.tv:80/images/83c95710e9422430108605a1b1206233.png" group-title="PACK DEPORTIVO ECUADOR",EC| GOL TV HD
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrIFNKo0bqyVEmCLqXxATDw/ts
-#EXTINF:-1 xui-id="550" tvg-id="canaluno.ec" tvg-name="EC| ECOTEL" tvg-logo="http://logos.digitalesnetworks.com/logotipos/ECOTELECUADOR.png" group-title="NACIONALES ECUADOR",EC| ECOTEL
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJikZQzXinKwK-RGDRCaRIVg/ts
-#EXTINF:-1 xui-id="405" tvg-id="" tvg-name="ECU| DIRECTV SPORTS" tvg-logo="http://play.flamaplus.tv:80/images/60f6e90a247b0469dff6582fa27e3844.png" group-title="PACK DEPORTIVO ECUADOR",ECU| DIRECTV SPORTS
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqrag9SUYfydzZDlTFKCY4Q/ts
-#EXTINF:-1 xui-id="545" tvg-id="ecuavisa.ec" tvg-name="EC| ECUAVISA" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",EC| ECUAVISA
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtPGqdFxD9gpRrfwcgY4RDo/ts
-#EXTINF:-1 xui-id="557" tvg-id="" tvg-name="EC| ECUAVISA HD" tvg-logo="http://play.flamaplus.tv:80/images/1e379f8825eb4496fabf8978d4107227.png" group-title="NACIONALES ECUADOR",EC| ECUAVISA HD
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJi7wgVNf8gzC-OnqRTsiK4U/ts
-#EXTINF:-1 xui-id="561" tvg-id="" tvg-name="EC| LA TUKA RADIO" tvg-logo="http://play.flamaplus.tv:80/images/2d93b6d6c3b144b60bdfe6711a2aab38.png" group-title="NACIONALES ECUADOR",EC| LA TUKA RADIO
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJqMA_QYF68LSSBWnDE3nyhs/ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL FHD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL FHD
-http://50.7.66.234:8080/Paul19/Paul19/1092640
-#EXTINF:-1 tvg-id="" tvg-name="EC - EL CANAL DEL FÚTBOL HD" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xtrim.tv%2Fmodal-ecdf.html&psig=AOvVaw2dAapzwiMqex0KiV8GuWrI&ust=1617141587478000&source=images&cd=vfe&ved=2ahUKEwi60aCAwNbvAhUZB7kGHbGmAQ4QjRx6BAgAEAc" group-title="ECUADOR",EC - EL CANAL DEL FÚTBOL HD
-http://50.7.66.234:8080/Paul19/Paul19/1086208
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="EC - DIRECTV SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",EC - DIRECTV SPORTS FHD
-http://50.7.66.234:8080/Paul19/Paul19/53462
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ECU - DIRECTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="ECUADOR",ECU - DIRECTV SPORTS HD
-http://50.7.66.234:8080/Paul19/Paul19/23239
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="EC - DIRECTV SPORTS 2 HD" tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR",EC - DIRECTV SPORTS 2 HD
-http://50.7.66.234:8080/Paul19/Paul19/53489
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="EC - DIRECTV SPORTS + FHD" tvg-logo="https://duckduckgo.com/i/e50c2093.png" group-title="ECUADOR",EC - DIRECTV SPORTS + FHD
-http://50.7.66.234:8080/Paul19/Paul19/53490
-#EXTINF:-1 tvg-id="" tvg-name="EC - PPV ECUADOR" tvg-logo="" group-title="ECUADOR",EC - PPV ECUADOR
-http://50.7.66.234:8080/Paul19/Paul19/1118922
-#EXTINF:-1 tvg-id="" tvg-name="EC - STAR + (SOLO EVENTOS)" tvg-logo="data:image/jpeg;base64,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" group-title="ECUADOR",EC - STAR + (SOLO EVENTOS)
-http://50.7.66.234:8080/Paul19/Paul19/1118924
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - CNT SPORTS / GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/CNT_Sports.png" group-title="ECUADOR",ECU - CNT SPORTS / GOL TV
-http://50.7.66.234:8080/Paul19/Paul19/7471
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="ECU - GOL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",ECU - GOL TV FHD
-http://50.7.66.234:8080/Paul19/Paul19/53381
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="EC - GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",EC - GOL TV HD
-http://50.7.66.234:8080/Paul19/Paul19/53491
-#EXTINF:-1 tvg-id="" tvg-name="ECU - GOL TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/245px-GolTV_logo.svg.png" group-title="ECUADOR",ECU - GOL TV SD
-http://50.7.66.234:8080/Paul19/Paul19/25753
-#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR",ECU - CANAL UNO FHD
-http://50.7.66.234:8080/Paul19/Paul19/8083
-#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="ECU - CANAL UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/220px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR",ECU - CANAL UNO SD
-http://50.7.66.234:8080/Paul19/Paul19/53452
-#EXTINF:-1 tvg-id="" tvg-name="ECU - ECUADOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="ECUADOR",ECU - ECUADOR TV HD
-http://50.7.66.234:8080/Paul19/Paul19/53453
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA FHD
-http://50.7.66.234:8080/Paul19/Paul19/53455
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU - ECUAVISA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="ECUADOR",ECU - ECUAVISA SD
-http://50.7.66.234:8080/Paul19/Paul19/8084
-#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="ECU - GAMAVISIÓN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Gama_tv.png" group-title="ECUADOR",ECU - GAMAVISIÓN FHD
-http://50.7.66.234:8080/Paul19/Paul19/53456
-#EXTINF:-1 tvg-id="" tvg-name="EC - OROMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQztdIRrAH0V40KqAq-rK-xCDCnbuSF4MqrhqKHODzn2JHrBH8zCVruv9rz2UXX7szS8&usqp=CAU" group-title="ECUADOR",EC - OROMAR TV
-http://50.7.66.234:8080/Paul19/Paul19/1155849
-#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCR7WWqtZjSJi9xe5jVGJNJE-Ml3fvSw3bayLGNInmqpfUicAQk1cXab1i30ckTTzbDjw&usqp=CAU" group-title="ECUADOR",ECU - RTS
-http://50.7.66.234:8080/Paul19/Paul19/7534
-#EXTINF:-1 tvg-id="RTS.ec" tvg-name="ECU - RTS SD" tvg-logo="https://pbs.twimg.com/profile_images/1127978058504339461/lbChzuL4_400x400.png" group-title="ECUADOR",ECU - RTS SD
-http://50.7.66.234:8080/Paul19/Paul19/53457
-#EXTINF:-1 tvg-id="" tvg-name="EC - TVC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TVCEC.png/150px-TVCEC.png" group-title="ECUADOR",EC - TVC FHD
-http://50.7.66.234:8080/Paul19/Paul19/53460
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION FHD" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION FHD
-http://50.7.66.234:8080/Paul19/Paul19/53458
-#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="ECU - TC TELEVISION HD" tvg-logo="http://www.mediafire.com/convkey/2714/6ktk2cykb2q4ycuzg.jpg" group-title="ECUADOR",ECU - TC TELEVISION HD
-http://50.7.66.234:8080/Paul19/Paul19/7533
-#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="ECU - TELEAMAZONAS FHD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",ECU - TELEAMAZONAS FHD
-http://50.7.66.234:8080/Paul19/Paul19/7532
-#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="EC - TELEAMAZONAS SD" tvg-logo="https://thescarletrevolutionary.files.wordpress.com/2013/05/teleamazonas.jpg" group-title="ECUADOR",EC - TELEAMAZONAS SD
-http://50.7.66.234:8080/Paul19/Paul19/53459
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
+http://shortgod.com/canaldisponible.mp4
+#EXTINF:-1  group-title="", Azteca 7
+http://flash.shortgod.com/malditos/tv2.php?id=1&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Canal 5
+http://flash.shortgod.com/malditos/tv2.php?id=2&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN
+http://flash.shortgod.com/malditos/tv2.php?id=3&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Latina
+http://flash.shortgod.com/malditos/tv2.php?id=4&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", America TV
+http://flash.shortgod.com/malditos/tv2.php?id=5&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Gol Peru
+http://flash.shortgod.com/malditos/tv2.php?id=6&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Gol TV
+http://flash.shortgod.com/malditos/tv2.php?id=7&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TNT SPORTS
+http://flash.shortgod.com/malditos/tv2.php?id=9&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Premium
+http://flash.shortgod.com/malditos/tv2.php?id=10&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TYC SPORTS
+http://flash.shortgod.com/malditos/tv2.php?id=11&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", FOX SPORTS
+http://flash.shortgod.com/malditos/tv2.php?id=12&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 2
+http://flash.shortgod.com/malditos/tv2.php?id=13&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 3
+http://flash.shortgod.com/malditos/tv2.php?id=14&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Deportes
+http://flash.shortgod.com/malditos/tv2.php?id=15&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Xtra
+http://flash.shortgod.com/malditos/tv2.php?id=16&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Sur
+http://flash.shortgod.com/malditos/tv2.php?id=17&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 2 Sur
+http://flash.shortgod.com/malditos/tv2.php?id=18&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 3 Sur
+http://flash.shortgod.com/malditos/tv2.php?id=19&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports
+http://flash.shortgod.com/malditos/tv2.php?id=20&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports 2
+http://flash.shortgod.com/malditos/tv2.php?id=21&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports Plus
+http://flash.shortgod.com/malditos/tv2.php?id=22&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bein La Liga
+http://flash.shortgod.com/malditos/tv2.php?id=23&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=24&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 2 Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=25&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports 3 Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=26&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=27&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 2 Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=28&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 3 Mexico
+http://flash.shortgod.com/malditos/tv2.php?id=29&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Afizzionados
+http://flash.shortgod.com/malditos/tv2.php?id=30&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO
+http://flash.shortgod.com/malditos/tv2.php?id=31&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO 2
+http://flash.shortgod.com/malditos/tv2.php?id=32&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO PLUS
+http://flash.shortgod.com/malditos/tv2.php?id=33&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO FAMILY
+http://flash.shortgod.com/malditos/tv2.php?id=34&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO Xtreme
+http://flash.shortgod.com/malditos/tv2.php?id=35&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Directv Sports Fight
+http://flash.shortgod.com/malditos/tv2.php?id=36&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Star Action MX
+http://flash.shortgod.com/malditos/tv2.php?id=37&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Peliculas de Accion
+http://flash.shortgod.com/malditos/tv2.php?id=38&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", SPACE
+http://flash.shortgod.com/malditos/tv2.php?id=39&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", MX: Warner Bros TV
+http://flash.shortgod.com/malditos/tv2.php?id=40&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TNT
+http://flash.shortgod.com/malditos/tv2.php?id=41&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Star Channel
+http://flash.shortgod.com/malditos/tv2.php?id=42&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cinemax
+http://flash.shortgod.com/malditos/tv2.php?id=43&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cinecanal
+http://flash.shortgod.com/malditos/tv2.php?id=44&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Telefe
+http://flash.shortgod.com/malditos/tv2.php?id=45&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", El Trece
+http://flash.shortgod.com/malditos/tv2.php?id=46&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Distrito Comedia
+http://flash.shortgod.com/malditos/tv2.php?id=47&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Telemundo Miami
+http://flash.shortgod.com/malditos/tv2.php?id=48&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", History
+http://flash.shortgod.com/malditos/tv2.php?id=49&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", History 2
+http://flash.shortgod.com/malditos/tv2.php?id=50&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Pasiones
+http://flash.shortgod.com/malditos/tv2.php?id=51&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Azteca Uno
+http://flash.shortgod.com/malditos/tv2.php?id=52&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Az Mundo
+http://flash.shortgod.com/malditos/tv2.php?id=53&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Az Cinema
+http://flash.shortgod.com/malditos/tv2.php?id=54&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Galavision
+http://flash.shortgod.com/malditos/tv2.php?id=55&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Tlnovelas
+http://flash.shortgod.com/malditos/tv2.php?id=56&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Las Estrellas
+http://flash.shortgod.com/malditos/tv2.php?id=57&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Syfy
+http://flash.shortgod.com/malditos/tv2.php?id=58&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Caracol
+http://flash.shortgod.com/malditos/tv2.php?id=59&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN Xtra
+http://flash.shortgod.com/malditos/tv2.php?id=60&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", ATV
+http://flash.shortgod.com/malditos/tv2.php?id=61&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Univision
+http://flash.shortgod.com/malditos/tv2.php?id=62&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Unicable
+http://flash.shortgod.com/malditos/tv2.php?id=63&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Unimas
+http://flash.shortgod.com/malditos/tv2.php?id=64&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Imagen TV
+http://flash.shortgod.com/malditos/tv2.php?id=65&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", CNN ESPA\u00d1OL
+http://flash.shortgod.com/malditos/tv2.php?id=66&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", RT
+http://flash.shortgod.com/malditos/tv2.php?id=67&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Universal Reality
+http://flash.shortgod.com/malditos/tv2.php?id=68&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", FX
+http://flash.shortgod.com/malditos/tv2.php?id=70&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Don Gato y su pandilla 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=71&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Star Life
+http://flash.shortgod.com/malditos/tv2.php?id=72&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden Plus
+http://flash.shortgod.com/malditos/tv2.php?id=73&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden Edge
+http://flash.shortgod.com/malditos/tv2.php?id=74&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden Premier
+http://flash.shortgod.com/malditos/tv2.php?id=75&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TNT SERIES
+http://flash.shortgod.com/malditos/tv2.php?id=76&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Canal Sony
+http://flash.shortgod.com/malditos/tv2.php?id=77&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", AXN
+http://flash.shortgod.com/malditos/tv2.php?id=78&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Universal Channel
+http://flash.shortgod.com/malditos/tv2.php?id=79&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Studio Universal
+http://flash.shortgod.com/malditos/tv2.php?id=80&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Multipremier
+http://flash.shortgod.com/malditos/tv2.php?id=81&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", AMC
+http://flash.shortgod.com/malditos/tv2.php?id=82&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Paramount Channel
+http://flash.shortgod.com/malditos/tv2.php?id=83&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cine Latino
+http://flash.shortgod.com/malditos/tv2.php?id=84&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dpelicula Plus
+http://flash.shortgod.com/malditos/tv2.php?id=85&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Isat
+http://flash.shortgod.com/malditos/tv2.php?id=86&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", MTV
+http://flash.shortgod.com/malditos/tv2.php?id=87&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", MTV Hits
+http://flash.shortgod.com/malditos/tv2.php?id=88&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HTV
+http://flash.shortgod.com/malditos/tv2.php?id=89&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bandamax
+http://flash.shortgod.com/malditos/tv2.php?id=90&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Comedy Central
+http://flash.shortgod.com/malditos/tv2.php?id=91&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Nat Geo
+http://flash.shortgod.com/malditos/tv2.php?id=92&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Mi bella Genio 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=93&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Animal Planet
+http://flash.shortgod.com/malditos/tv2.php?id=94&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery Channel
+http://flash.shortgod.com/malditos/tv2.php?id=95&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery Turbo
+http://flash.shortgod.com/malditos/tv2.php?id=96&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery HYH
+http://flash.shortgod.com/malditos/tv2.php?id=97&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", ID Investigation
+http://flash.shortgod.com/malditos/tv2.php?id=98&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery A&E
+http://flash.shortgod.com/malditos/tv2.php?id=99&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery TLC
+http://flash.shortgod.com/malditos/tv2.php?id=100&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery Theater
+http://flash.shortgod.com/malditos/tv2.php?id=101&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery World
+http://flash.shortgod.com/malditos/tv2.php?id=102&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Everything
+http://flash.shortgod.com/malditos/tv2.php?id=103&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Lifetime
+http://flash.shortgod.com/malditos/tv2.php?id=104&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TBS
+http://flash.shortgod.com/malditos/tv2.php?id=105&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", El Gourmet
+http://flash.shortgod.com/malditos/tv2.php?id=106&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", DHE
+http://flash.shortgod.com/malditos/tv2.php?id=107&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", La Familia Peluche 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=108&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Disney Junior
+http://flash.shortgod.com/malditos/tv2.php?id=109&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Nick
+http://flash.shortgod.com/malditos/tv2.php?id=110&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Canal Uno
+http://flash.shortgod.com/malditos/tv2.php?id=111&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Nick Jr
+http://flash.shortgod.com/malditos/tv2.php?id=112&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", El Chapulin Colorado 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=113&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cartoon Network
+http://flash.shortgod.com/malditos/tv2.php?id=114&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cartoonito
+http://flash.shortgod.com/malditos/tv2.php?id=115&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Tooncast
+http://flash.shortgod.com/malditos/tv2.php?id=116&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery Kids
+http://flash.shortgod.com/malditos/tv2.php?id=117&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Telemundo Puerto Rico
+http://flash.shortgod.com/malditos/tv2.php?id=118&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Boing
+http://flash.shortgod.com/malditos/tv2.php?id=119&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", VH1
+http://flash.shortgod.com/malditos/tv2.php?id=120&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Vh1 Classic
+http://flash.shortgod.com/malditos/tv2.php?id=121&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Azteca TV
+http://flash.shortgod.com/malditos/tv2.php?id=122&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Top Latino
+http://flash.shortgod.com/malditos/tv2.php?id=123&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: NBA
+http://flash.shortgod.com/malditos/tv2.php?id=125&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Az click 
+http://flash.shortgod.com/malditos/tv2.php?id=127&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Alf 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=128&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Digimon 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=129&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", A3Series
+http://flash.shortgod.com/malditos/tv2.php?id=130&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bit Me
+http://flash.shortgod.com/malditos/tv2.php?id=131&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Once TV
+http://flash.shortgod.com/malditos/tv2.php?id=132&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Telexitos
+http://flash.shortgod.com/malditos/tv2.php?id=133&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: MLB
+http://flash.shortgod.com/malditos/tv2.php?id=134&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Hola TV
+http://flash.shortgod.com/malditos/tv2.php?id=136&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Tru TV
+http://flash.shortgod.com/malditos/tv2.php?id=137&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Star Action Sur
+http://flash.shortgod.com/malditos/tv2.php?id=138&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Discovery Science
+http://flash.shortgod.com/malditos/tv2.php?id=139&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Gol TV FHD
+http://flash.shortgod.com/malditos/tv2.php?id=142&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Foro TV
+http://flash.shortgod.com/malditos/tv2.php?id=143&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", South Park 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=146&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Espn U
+http://flash.shortgod.com/malditos/tv2.php?id=148&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", HBO MUNDI
+http://flash.shortgod.com/malditos/tv2.php?id=149&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Chavo 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=150&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", NFL Network
+http://flash.shortgod.com/malditos/tv2.php?id=151&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TCM
+http://flash.shortgod.com/malditos/tv2.php?id=152&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Willax TV
+http://flash.shortgod.com/malditos/tv2.php?id=153&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", REVOLT MUSIC
+http://flash.shortgod.com/malditos/tv2.php?id=154&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Milenio
+http://flash.shortgod.com/malditos/tv2.php?id=155&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Bet Star 
+http://flash.shortgod.com/malditos/tv2.php?id=156&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Bravo
+http://flash.shortgod.com/malditos/tv2.php?id=157&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: FOX 10 Usa
+http://flash.shortgod.com/malditos/tv2.php?id=158&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: FXX
+http://flash.shortgod.com/malditos/tv2.php?id=159&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", ATV Mas
+http://flash.shortgod.com/malditos/tv2.php?id=161&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: AMC
+http://flash.shortgod.com/malditos/tv2.php?id=162&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", FYI Usa
+http://flash.shortgod.com/malditos/tv2.php?id=163&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Network Usa
+http://flash.shortgod.com/malditos/tv2.php?id=164&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Viceland
+http://flash.shortgod.com/malditos/tv2.php?id=165&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Futurama 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=166&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Espn 4
+http://flash.shortgod.com/malditos/tv2.php?id=167&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bein Sports Xtra Usa
+http://flash.shortgod.com/malditos/tv2.php?id=171&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: TNT
+http://flash.shortgod.com/malditos/tv2.php?id=172&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Cartoon Network Usa
+http://flash.shortgod.com/malditos/tv2.php?id=173&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: ABC Phoenix
+http://flash.shortgod.com/malditos/tv2.php?id=174&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Syfy
+http://flash.shortgod.com/malditos/tv2.php?id=176&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa Freeform
+http://flash.shortgod.com/malditos/tv2.php?id=177&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Espn
+http://flash.shortgod.com/malditos/tv2.php?id=178&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Unimas Miami
+http://flash.shortgod.com/malditos/tv2.php?id=179&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Fox San Francisco
+http://flash.shortgod.com/malditos/tv2.php?id=180&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Discovery Channel
+http://flash.shortgod.com/malditos/tv2.php?id=181&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: ABC Las Vegas
+http://flash.shortgod.com/malditos/tv2.php?id=182&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: ID Investigation
+http://flash.shortgod.com/malditos/tv2.php?id=183&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: History
+http://flash.shortgod.com/malditos/tv2.php?id=184&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Nat Geo
+http://flash.shortgod.com/malditos/tv2.php?id=185&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: Nat Geo Wild
+http://flash.shortgod.com/malditos/tv2.php?id=186&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", RCN Novelas
+http://flash.shortgod.com/malditos/tv2.php?id=190&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dragon Ball Super 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=191&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Usa: ABC Dallas
+http://flash.shortgod.com/malditos/tv2.php?id=192&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", RCN
+http://flash.shortgod.com/malditos/tv2.php?id=193&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Movistar Deportes
+http://flash.shortgod.com/malditos/tv2.php?id=194&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: TeleAmazonas
+http://flash.shortgod.com/malditos/tv2.php?id=195&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Terror 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=196&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Canal N
+http://flash.shortgod.com/malditos/tv2.php?id=197&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Az Corazon
+http://flash.shortgod.com/malditos/tv2.php?id=198&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Movistar F1
+http://flash.shortgod.com/malditos/tv2.php?id=199&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TUDN Usa
+http://flash.shortgod.com/malditos/tv2.php?id=200&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Bo: Tigo Sports
+http://flash.shortgod.com/malditos/tv2.php?id=201&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Golden
+http://flash.shortgod.com/malditos/tv2.php?id=202&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Arg: America TV
+http://flash.shortgod.com/malditos/tv2.php?id=274&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: RTS
+http://flash.shortgod.com/malditos/tv2.php?id=313&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: Tele Amazonas
+http://flash.shortgod.com/malditos/tv2.php?id=314&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", ECDF
+http://flash.shortgod.com/malditos/tv2.php?id=315&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: TC
+http://flash.shortgod.com/malditos/tv2.php?id=316&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: Oromar TV
+http://flash.shortgod.com/malditos/tv2.php?id=317&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", EC: RTU
+http://flash.shortgod.com/malditos/tv2.php?id=318&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Extrema TV
+http://flash.shortgod.com/malditos/tv2.php?id=319&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Los Simpson 24\/7
+http://flash.shortgod.com/malditos/tv2.php?id=329&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Nick Music
+http://flash.shortgod.com/malditos/tv2.php?id=331&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", GLITZ
+http://flash.shortgod.com/malditos/tv2.php?id=339&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Warner Bros TV
+http://flash.shortgod.com/malditos/tv2.php?id=341&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", RCN MAS
+http://flash.shortgod.com/malditos/tv2.php?id=351&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", BEIN SPORTS EXTRA
+http://flash.shortgod.com/malditos/tv2.php?id=352&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Disney Channel
+http://flash.shortgod.com/malditos/tv2.php?id=353&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Ben 10 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=354&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Chespirito 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=355&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dinosaurios 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=356&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Coyote Y Corre Caminos 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=357&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", El Principe del rap 24/7
+http://flash.shortgod.com/malditos/tv2.php?id=358&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", ES: Barca TV
+http://flash.shortgod.com/malditos/tv2.php?id=360&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", WWE Kick OFF
+http://flash.shortgod.com/malditos/tv2.php?id=363&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Fox Sports Premium
+http://flash.shortgod.com/malditos/tv2.php?id=364&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", City TV
+http://flash.shortgod.com/malditos/tv2.php?id=226&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Real Madrid TV
+http://flash.shortgod.com/malditos/tv2.php?id=367&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Dpelicula
+http://flash.shortgod.com/malditos/tv2.php?id=370&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Universal Premier
+http://flash.shortgod.com/malditos/tv2.php?id=371&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", TLT Venezuela
+http://flash.shortgod.com/malditos/tv2.php?id=372&token=ShortGod&file=.m3u8
+#EXTINF:-1  group-title="", Tigo sports Paraguay
+http://flash.shortgod.com/malditos/tv2.php?id=241&token=ShortGod&file=.m3u8

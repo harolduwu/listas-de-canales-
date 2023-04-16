@@ -4,6 +4,316 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CLARO SPORT 2 OP 2
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=812&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",D@Zn F1
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=815&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",D@Zn - LA LIGA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=810&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",Distrito Comedia
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=12&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",HBO Xtreme
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=13&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",HBO Plus
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=14&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",HBO Family
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=15&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",ESPN 1 ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=17&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 1 MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=18&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 2 MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=19&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",ESPN PREMIUM ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=22&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 2 Sur
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=24&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",NBA TV
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=25&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Afizzionados
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=29&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",La Liga TV Bar
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=35&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",AZTECA 7 | MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=36&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Caracol Internacional
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=38&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CNN EN ESPAÑOL
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=41&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",WIN SPORTS
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=42&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",WIN SPORTS PLUS
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=43&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",DIRECTV SPORTS + | ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=44&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",DIRECTV SPORTS 1 - ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=45&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",MOVISTAR LA LIGA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=53&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",TELENOVELAS MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=67&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",FOX SPORTS 1 | MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=71&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Fox Sports 3 Sur
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=72&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",FOX SPORTS 2 | SUR
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=73&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",FOX SPORTS 1 | SUR
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=74&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Fox Sports Premium MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=75&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",GOL PERU
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=77&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",CANAL 5 MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=81&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",LAS ESTRELLAS MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=87&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",MOVISTAR LIGA DE CAMPEONES 1
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=92&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",SPACE LATINO
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=97&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",TYC SPORTS HD - ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=107&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",TUDN USA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=108&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",TUDN MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=109&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",TNT SPORTS | ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=111&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",VISIÓN TV - SOLOLA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=419&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",SAS Tv (SUCH)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=422&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Guatv (SOL)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=423&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Tunevisión (SOL)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=425&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Canal 100 tv Chinique (QUI)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=426&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",PlayMedios Tv (QUE)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=427&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",EXPRESIÓN TV - SOLOLA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=428&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Canal Peniel (HUE)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=429&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Peniel Kids & Young (HUE)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=430&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Peniel Musical (HUE)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=431&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Canal 8 (SRO)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=432&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Izabal Tv (IZA)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=433&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Barbe tv (SRO)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=435&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TDS (SOL)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=437&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TVS Retro (GUA)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=439&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Mi Canal (GUA)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=440&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Telemax (Esc)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=442&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Unica Tv
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=444&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Jesús Tv (SRO)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=445&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Tv Florencia (CMT)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=446&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Canal 5 (Sol)
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=448&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TEVE GLOBO
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=449&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL ANTIGUA - GUATE  -   FHD
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=450&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",AZTECA 7 GUATE FHD
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=451&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL 11 GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=453&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL 13 GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=454&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL 27 - Guate
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=455&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL 3 GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=456&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CANAL 7 GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=457&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",FRANCHS TV - GUATEMALA
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=459&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",GUATEVISION - GUATE  -FHD
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=460&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",MINISTERIOS EBENEZER GT - GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=462&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Telecosta Escuintla
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=463&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TIGO SPORTS GT - SV1
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=464&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TV TUN
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=466&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TN 23 GUATE
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=467&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",All Sports | BR
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=483&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",MZ Sports | CR
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=492&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CBS News
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=504&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",HispanTV
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=514&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",TV Peru Noticias
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=616&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",WOW TV
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=650&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",BEIN SPORTS N
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=656&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",EWTN
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=659&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COSTARRICA",Multizonas
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=690&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COSTARRICA",Megahits
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=691&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COSTARRICA",KMK
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=692&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="COSTARRICA",Canal 17 TV Nosara
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=693&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Real Madrid TV
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=695&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",DW Español
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=696&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HONDURAS",EBENEZER TV | HONDURAS
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=727&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CNI DIGITAL
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=730&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",Universal Channel  HD
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=801&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANALES PRO",UNIVERSAL REALITY
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=802&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",DIRECTV SPORTS 2 - ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=804&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",ESPN 3 ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=805&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 2 ARG
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=806&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 1 Sur
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=807&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Espn 3 MX
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=808&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Claro Sports 2 GT
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=809&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES PRO",Tigo Sports Paraguay
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=816&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",Canal 13 Esquipulas
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=820&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZTn421P/futv-costarica.jpg" group-title="DEPORTES PRO",FUTV
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=822&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GUATEMALA",TIGO SPORT GT - SV 2
+#EXTVLCOPT:http-user-agent=ALLOWEDUSERMNUAL
+https://flash.shortgod.com/cocoli/scripts/play8.php?u=823&f=.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
+http://shortgod.com/canaldisponible.mp4
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="GUATEMALA",CLARO SPORT 2 OP 2
 #EXTVLCOPT:http-user-agent=payfembedtreamsbtop

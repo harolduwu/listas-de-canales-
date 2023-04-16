@@ -229,4 +229,169 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/3150
 http://live.budtvlight.com:25461/Luna001/18dabf00/37273
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sports FHD MX (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CLARO%20SPORTS.png" group-title="Latinos",Claro Sports FHD MX (i)
 http://live.budtvlight.com:25461/Luna001/18dabf00/51388
-
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="Claro Sports. SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CLARO%20SPORTS.png" group-title="Latinos",Claro Sports. SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/3141
+#EXTINF:-1 tvg-id="cnnenespanol.mx" tvg-name="CNN Esp HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20EN%20ESPA%C3%91OL.png" group-title="Latinos",CNN Esp HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/3160
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANOL LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20EN%20ESPA%C3%91OL.png" group-title="Canales Menos 3 Mb",CNN ESPANOL LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16528
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN INTERNACIONAL HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20INTERNACIONAL.png" group-title="Latinos",CNN INTERNACIONAL HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3308
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="CNN International P" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20INTERNACIONAL.png" group-title="Latinos",CNN International P
+http://live.budtvlight.com:25461/Luna001/18dabf00/3483
+#EXTINF:-1 tvg-id="" tvg-name="COL | CONCERT CHANNEL" tvg-logo="https://budtv-ultra.com/posters/1618277995467.png" group-title="Colombia",COL | CONCERT CHANNEL
+http://live.budtvlight.com:25461/Luna001/18dabf00/18616
+#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA" tvg-logo="http://iconos.budtv-ultra.com/logos/COLOMBIA/TELEANTIOQUIA.png" group-title="Colombia",COL | TELEANTIOQUIA
+http://live.budtvlight.com:25461/Luna001/18dabf00/18618
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/COMEDY%20CENTRAL.png" group-title="Latinos",COMEDY CENTRAL HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30319
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD (i)" tvg-logo="" group-title="Latinos",Comedy Central HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/38006
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/COMEDY%20CENTRAL.png" group-title="Canales Menos 3 Mb",COMEDY CENTRAL LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16529
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="COMEDY CENTRAL  SD =" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/COMEDY%20CENTRAL.png" group-title="Latinos",COMEDY CENTRAL  SD =
+http://live.budtvlight.com:25461/Luna001/18dabf00/3289
+#EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 4 REPRETEL" tvg-logo="http://iconos.budtv-ultra.com/logos/COSTA%20RICA/Repretel%204.png" group-title="Costa Rica",CR | CANAL 4 REPRETEL
+http://live.budtvlight.com:25461/Luna001/18dabf00/18623
+#EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 6 REPRETEL" tvg-logo="http://iconos.budtv-ultra.com/logos/COSTA%20RICA/Repretel%206.png" group-title="Costa Rica",CR | CANAL 6 REPRETEL
+http://live.budtvlight.com:25461/Luna001/18dabf00/18620
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sport CR" tvg-logo="http://iconos.budtv-ultra.com/logos/COSTA%20RICA/Tigo%20Sports.png" group-title="Costa Rica",CR | Tigo Sport CR
+http://live.budtvlight.com:25461/Luna001/18dabf00/18622
+#EXTINF:-1 tvg-id="peliculamultiplex.mx" tvg-name="De Pelicula + SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA%20PLUS.png" group-title="Latinos",De Pelicula + SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1470
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="De Pelicula HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png" group-title="Latinos",De Pelicula HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3285
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="De Pelicula SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA%20CLASICO.png" group-title="Latinos",De Pelicula SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1469
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="DISCOVERY CHANNEL HD (p)" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png" group-title="Latinos",DISCOVERY CHANNEL HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3313
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png" group-title="Latinos",DISCOVERY CHANNEL SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/30321
+#EXTINF:-1 tvg-id="" tvg-name="Discovery en Espanol (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png" group-title="Latinos",Discovery en Espanol (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/44337
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H (i)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/38469
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30322
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD (i)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37994
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H HD (p)" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3314
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H SD" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png" group-title="Latinos",DISCOVERY H&H SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/34308
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20HOME%20AND%20HEALTH.png" group-title="Canales Menos 3 Mb",DISCOVERY HOME & HEALTH LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16532
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID HD E (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1659058659465.png" group-title="Latinos",Discovery ID HD E (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37970
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery ID SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png" group-title="Latinos",Discovery ID SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1785
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20KIDS.png" group-title="KIDS",DISCOVERY KIDS HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30323
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20KIDS.png" group-title="KIDS",DISCOVERY KIDS LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16533
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids LQ" tvg-logo="" group-title="Canales Menos 3 Mb",Discovery Kids LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16555
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS SD =" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20KIDS.png" group-title="KIDS",DISCOVERY KIDS SD =
+http://live.budtvlight.com:25461/Luna001/18dabf00/3315
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png" group-title="Canales Menos 3 Mb",DISCOVERY LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16534
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="Discovery Science SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20SCIENCE.png" group-title="Latinos",Discovery Science SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1482
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Latinos",DISCOVERY THEATER HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30324
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Canales Menos 3 Mb",DISCOVERY THEATER LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16535
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Latinos",DISCOVERY THEATER SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/34388
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="DISCOVERY THEATRER HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png" group-title="Latinos",DISCOVERY THEATRER HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3316
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="DISCOVERY TLC" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Latinos",DISCOVERY TLC
+http://live.budtvlight.com:25461/Luna001/18dabf00/3786
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Latinos",DISCOVERY TLC HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30325
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Canales Menos 3 Mb",DISCOVERY TLC LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16536
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="Discovery TLC SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png" group-title="Latinos",Discovery TLC SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/2697
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png" group-title="Latinos",Discovery Turbo
+http://live.budtvlight.com:25461/Luna001/18dabf00/1494
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png" group-title="Canales Menos 3 Mb",DISCOVERY TURBO LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16537
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="DISCOVERY TURBO SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png" group-title="Latinos",DISCOVERY TURBO SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/12208
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Latinos",DISCOVERY WORLD HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30326
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="DISCOVERY WORLD HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Latinos",DISCOVERY WORLD HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3309
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png" group-title="Canales Menos 3 Mb",DISCOVERY WORLD LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16538
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://budtv-ultra.com/posters/1616527382547.png" group-title="Latinos",DISCOVERY WORLD SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/34389
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="KIDS",DISNEY CHANNEL HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30327
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="Canales Menos 3 Mb",DISNEY CHANNEL LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16539
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Disney Channel SD =" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20CHANNEL.png" group-title="KIDS",Disney Channel SD =
+http://live.budtvlight.com:25461/Luna001/18dabf00/3126
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR  HD" tvg-logo="" group-title="canada",DISNEY JR  HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/37258
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior (i)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="KIDS",Disney Junior (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/50006
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="KIDS",DISNEY JUNIOR HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/30328
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="Canales Menos 3 Mb",DISNEY JUNIOR LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16540
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Disney Junior SD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISNEY%20JUNIOR.png" group-title="KIDS",Disney Junior SD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3127
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png" group-title="Latinos",DISTRITO COMEDIA HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30330
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="DISTRITO COMEDIA HD (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png" group-title="Latinos",DISTRITO COMEDIA HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3284
+#EXTINF:-1 tvg-id="" tvg-name="DMAX (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1616282066279.png" group-title="Espana",DMAX (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/44341
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 1 (Ecuador)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador",DTV Sports 1 (Ecuador)
+http://live.budtvlight.com:25461/Luna001/18dabf00/65179
+#EXTINF:-1 tvg-id="" tvg-name="DTV Sports 2 (Ecuador)" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/DIRECTV%20SPORTS%202.png" group-title="Ecuador",DTV Sports 2 (Ecuador)
+http://live.budtvlight.com:25461/Luna001/18dabf00/55286
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="DW" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DW.png" group-title="Latinos",DW
+http://live.budtvlight.com:25461/Luna001/18dabf00/11550
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Latinos",E! ENTERTAINMENT HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30360
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://budtv-ultra.com/posters/1635230854224.png" group-title="Latinos",E! HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/22694
+#EXTINF:-1 tvg-id="" tvg-name="E! LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Canales Menos 3 Mb",E! LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16543
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="E! SD  (p)" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png" group-title="Latinos",E! SD  (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/3068
+#EXTINF:-1 tvg-id="" tvg-name="EC GOL TV FHD" tvg-logo="https://budtv-ultra.com/posters/1633400283168.png" group-title="Ecuador",EC GOL TV FHD
+http://live.budtvlight.com:25461/Luna001/18dabf00/14880
+#EXTINF:-1 tvg-id="" tvg-name="EC | Directv Sports +" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DIRECTV%20SPORTS%20%2B.png" group-title="Ecuador",EC | Directv Sports +
+http://live.budtvlight.com:25461/Luna001/18dabf00/21794
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador Tv" tvg-logo="https://www.redtal.tv/image/258x9618a/ecuadortv.png" group-title="Ecuador",Ecuador Tv
+http://live.budtvlight.com:25461/Luna001/18dabf00/72783
+#EXTINF:-1 tvg-id="1271.stations.xmltv.tvmedia.ca" tvg-name="ECUAVISA HD" tvg-logo="https://budtv-ultra.com/posters/1613696071519.png" group-title="Ecuador",ECUAVISA HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1538
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO ANIMADO 24-7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png" group-title="24/7",EL CHAVO ANIMADO 24-7
+http://live.budtvlight.com:25461/Luna001/18dabf00/12023
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8 -" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png" group-title="24/7",EL CHAVO DEL 8 -
+http://live.budtvlight.com:25461/Luna001/18dabf00/35023
+#EXTINF:-1 tvg-id="" tvg-name="el chavo del 8  24/7" tvg-logo="" group-title="Latinos",el chavo del 8  24/7
+http://live.budtvlight.com:25461/Luna001/18dabf00/35022
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del Ocho (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1652142381389.png" group-title="24/7",El Chavo del Ocho (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/38712
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="El Garage SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GARAGE%20TV.png" group-title="Latinos",El Garage SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1601
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Latinos",EL GOURMET HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30331
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET HD i" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Latinos",EL GOURMET HD i
+http://live.budtvlight.com:25461/Luna001/18dabf00/50461
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Canales Menos 3 Mb",EL GOURMET LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16544
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="El Gourmet  SD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png" group-title="Latinos",El Gourmet  SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1490
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 HD" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN%202.png" group-title="Latinos",ESPN 2 HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/3167
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 LQ" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN%202.png" group-title="Canales Menos 3 Mb",ESPN 2 LQ
+http://live.budtvlight.com:25461/Luna001/18dabf00/16545
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX HD (i)" tvg-logo="" group-title="Deportes",ESPN 2 MX HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37812

@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
+https://593apps.pro.ec/videoIPTV593.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" DIRECTV SPORTS 1 (CHILE)(FHD)" tvg-logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽", DIRECTV SPORTS 1 (CHILE)(FHD)
+http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/176616
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 (CHILE)(HD)" tvg-logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",DIRECTV SPORTS 1 (CHILE)(HD)
+http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/176615
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",DIRECTV SPORTS HD
+http://castlempire.site:8080/UserTest1Octubre_00h/fTQHy3hQDtjs/204321
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",ESPN 2 SUR
+http://castlempire.site:8080/UserTest4Octubre_00h/uek4neVNWyxE/176614
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",ESPN SUR
+http://castlempire.site:8080/UserTest1Octubre_00h/fTQHy3hQDtjs/176613
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",FOX SPORTS 1 SUR
+http://castlempire.site:8080/UserTest1Octubre_00h/fTQHy3hQDtjs/176611
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",FOX SPORTS 2 SUR
+http://castlempire.site:8080/UserTest2Octubre_00h/bqCs7jw4KQJa/176612
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD (i)" tvg-logo="https://budtv-ultra.com/posters/1625185782231.png" group-title="Latinos",AXN HD (i)
 http://live.budtvlight.com:25461/Luna001/18dabf00/22697
 #EXTINF:-1 tvg-id="" tvg-name="Cine Dinamita (i)" tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png" group-title="Latinos",Cine Dinamita (i)

@@ -2,7 +2,7 @@
 
 #EXTM3U:
 
-http://160.20.165.245:8000/play/a00x/Index.m3u8
+#EXTINF-1 tv http://160.20.165.245:8000/play/a00x/Index.m3u8
 
 http://160.20.165.245:8000/play/a01f/Index.m3u8
 

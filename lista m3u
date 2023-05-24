@@ -2,18 +2,21 @@
 
 #EXTM3U:
 
-#EXTINF-1 tv http://160.20.165.245:8000/play/a00x/Index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="Listas Flash Ec M3U IPTV" tvg-logo="https://play-lh.googleusercontent.com/HD4WuErnigIq8cU7-YhOv9hM7uQiNs2K-dHC6GRuRxUNccDmpRaZz6v8jW9C9JbMZQ=w240-h480-rw" group-title="The Flash Apps", Listas Flash Ec M3U IPTV by The Flash Apps
+https://593apps.pro.ec/videoIPTV593.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" DIRECTV SPORTS 1 (CHILE)(FHD)" tvg-logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽", DIRECTV SPORTS 1 (CHILE)(FHD)
+http://castlempire.site:8080/UserTest4Octubre_00n/uek4neVNWyxE/176616
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 (CHILE)(HD)" tvg-logo="http://castlempire.site:8080/images/266d34a9d402757dd0a23940d815adab.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",DIRECTV SPORTS 1 (CHILE)(HD)
+http://castlempire.site:8080/UserTest4Octubre_00n/uek4neVNWyxE/176615
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",DIRECTV SPORTS HD
+http://castlempire.site:8080/UserTest1Octubre_00n/fTQHy3hQDtjs/204321
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",ESPN 2 SUR
+http://castlempire.site:8080/UserTest4Octubre_00n/uek4neVNWyxE/176614
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",ESPN SUR
+http://castlempire.site:8080/UserTest1Octubre_00n/fTQHy3hQDtjs/176613
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",FOX SPORTS 1 SUR
+http://castlempire.site:8080/UserTest1Octubre_00n/fTQHy3hQDtjs/176611
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR" tvg-logo="http://castlempire.site:8080/images/377fa011860482db184ed9f15214cb48.png" group-title=" ⭐️Copa Libertadores/Sudamericana⚽",FOX SPORTS 2 SUR
+http://castlempire.site:8080/UserTest2Octubre_00n/bqCs7jw4KQJa/176612
 
-http://160.20.165.245:8000/play/a01f/Index.m3u8
-
-http://160.20.165.245:8000/play/a00r/Index.m3u8
-
-http://160.20.165.245:8000/play/a00s/Index.m3u8
-
-http://160.20.165.245:8000/play/a00p/Index.m3u8
-
-http://160.20.165.245:8000/play/a00q/Index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Maggie Simpson: Jugando con el destino (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfuZUtV5FlGHphMjuBtN40GeNpf.jpg" group-title="*INFANTILES y FAMILIARES ",Maggie Simpson: Jugando con el destino (2020)
-http://160.20.165.245:8000/play/a00p/Index.m3u8
